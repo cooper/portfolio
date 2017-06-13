@@ -2,8 +2,9 @@
 <html>
 <head>
 <title>Mitchell Cooper</title>
-<link rel="stylesheet" type="text/css" href="style.css" />
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500|Open+Sans" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="{{.StaticRoot}}/style.css" />
+<link rel="stylesheet" type="text/css" href="/static/wiki.css" />
 </head>
 
 <body class="main">
