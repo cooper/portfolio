@@ -1,3 +1,6 @@
 *.old
 *.save
 *~
+private/*
+wiki_private.conf
+cache/*
