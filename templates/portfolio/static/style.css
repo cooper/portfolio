@@ -154,13 +154,13 @@ body.main #header {
 
 }
 
-div.section {
+div.wiki-section {
     margin: auto;
     padding: 30px 20px;
     background-color: rgb(250, 250, 250);
 }
 
-div.section.alternate {
+div.wiki-section.alternate {
     background-color: green;
     color: white;
 }
