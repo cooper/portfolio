@@ -12,7 +12,7 @@
 <div id="body-bg"></div>
 <div id="header-bg"></div>
 <div id="header">
-    <img id="picture" src="me.jpg" alt="me" />
+    <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
     <div id="logo">
         <a href="/"><span>Mitchell Cooper</span></a>
     </div>
