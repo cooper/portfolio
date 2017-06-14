@@ -10,7 +10,7 @@
 image {
     float:  right;
     file:   friendlog.png;
-    width:  500px;
+    width:  550px;
 }
 
 sec {
