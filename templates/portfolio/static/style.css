@@ -90,16 +90,6 @@ body.main #header {
     }
 }
 
-@media screen and (max-width: 860px) {
-    #header, #header-bg {
-        height: 230px !important; /* instead of 270 */
-        font-size: 12px; /* instead of 16 */
-    }
-    #picture {
-        max-height: 70%;
-    }
-}
-
 #quote {
     margin: 30px 0 0 0;
     padding: 0;
@@ -112,6 +102,16 @@ body.main #header {
     border: 20px solid chartreuse;
     height: 200px;
     max-height: 80%;
+}
+
+@media screen and (max-width: 860px) {
+    #header, #header-bg {
+        height: 230px !important; /* instead of 270 */
+        font-size: 12px; /* instead of 16 */
+    }
+    #picture {
+        max-height: 70%;
+    }
 }
 
 #navigation {
