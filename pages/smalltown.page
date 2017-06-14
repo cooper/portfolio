@@ -19,7 +19,7 @@ sec {
     This template demonstrates a municipal website concept.
     
     The wikifier-based site features a news blog, event calendar, map of
-    points of interest, and templates for pages common to municipal websites
+    points of interest, and models for pages common to municipal websites
     such as the offices of elected officials, parks and recreation, and more.
     
     The example here is filled with content about my home community,
