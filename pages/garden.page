@@ -6,9 +6,9 @@
 @category.hobby;
 
 image {
-    float:  right;
-    file:   garden.jpg;
-    width:  500px;
+    float:      right;
+    file:       garden.jpg;
+    height:     400px;
 }
 
 sec {
@@ -18,13 +18,11 @@ sec {
     after all...
     
     I love working outside in my garden. I've spent more time and shed more
-    sweat in there than anywhere else.
-    
-    In practice, I am not the world's most successful gardener. Yet, I am always
-    planning my garden each year long before the last frost. It worth nothing
-    that I am not a health nut; i.e., I do not garden because I am afraid of
-    preservatives or GMOs. Gardening certainly does not save me a significant
-    amount of money either.
+    sweat in there than anywhere else. In practice, I am not the world's most
+    successful gardener. Yet, I am always planning my garden each year long
+    before the last frost. It worth nothing that I am not a health nut;
+    i.e., I do not garden because I am afraid of preservatives or GMOs.
+    Gardening certainly does not save me a significant amount of money either.
     
     I do it because I find it enjoyable, and the food tastes better when grown
     at home. It also has social value as a means by which to impress my
