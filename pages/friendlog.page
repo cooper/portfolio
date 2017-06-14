@@ -19,31 +19,19 @@ sec {
     In sixth grade, I set up a social networking site. I wanted
     to create a community for me and my friends, many of whom did not have
     Facebook because their parents did not allow it. Times have changed!
-    
-    /*
-        The entire social networking platform was built into the service, but I
-        created custom graphics in GIMP and created custom pages based on free CSS
-        templates.
 
-        (after parental permission)
-        Before long, the limitations of the FreeWebs platform were becoming
-        apparent, so I experimented with Elgg, Dolphin, and some other social
-        networking frameworks before ultimately moving FriendLog over to Ning.
-    */
-    
-    I made business cards and invitations to hand out to my peers at
-    school. Within mere weeks, all the coolest kids at Frontier Elementary
-    used FriendLog as their primary means of extramural communication
-    (with parental permission, of course).
+    I made business cards to hand out to my peers at school. Within mere weeks,
+    all the coolest kids at Frontier Elementary used FriendLog as their primary
+    means of extramural communication (with parental permission, of course).
     The site expanded to have hundreds of users with loads of uploaded
-    content. The custom design was colorful and ever-evolving. I made
-    unique profile themes for my closest friends, too.
+    content. The custom design was colorful and ever-evolving, each profile with
+    a fine-tuned theme.
     
     By late 2010, FriendLog had been overtaken by younger folk and was no longer
-    of interest to me, so I removed it from production. I backed up all of the
-    content on a laptop which later was lost. The version pictured was an
-    incomplete recreation written from scratch, but it never gained
-    traction. FriendLog exists now only in our memory.
+    of interest to me. I backed up all of the content on a laptop which later
+    was lost. The version pictured was an incomplete recreation written from
+    scratch, but it never gained traction. FriendLog exists now only in our
+    memory.
 }
 
 clear {}
