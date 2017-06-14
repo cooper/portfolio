@@ -16,7 +16,6 @@
     {{end}}
 </head>
 <body class="main">
-    <div id="body-bg"></div>
     <div id="header-bg"></div>
     <div id="header">
         <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />

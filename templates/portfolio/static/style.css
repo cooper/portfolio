@@ -4,7 +4,7 @@ body, ul, h1, h2, h3, h4 {
 }
 
 body {
-    background-color: chartreuse;
+    background-color: rgb(250, 250, 250);
     color: rgb(10, 10, 10);
     font-family: 'Open Sans', sans-serif;
 }
@@ -29,17 +29,6 @@ h2, h3, h4 {
 h2 span, h3 span, h4 span {
     border-bottom: 5px solid chartreuse;
     display: inline-block;
-}
-
-/* bouncy scrolling bg color */
-#body-bg {
-    width: 100%;
-    height: 500px;
-    position: absolute;
-    background-color: rgb(250, 250, 250);
-    z-index: -3;
-    top: 0;
-    left: 0;
 }
 
 /* header background color */
@@ -150,8 +139,6 @@ body.main #header {
     height: 40px;
     line-height: 40px;
     padding-left: 20px;
-    background-color: rgb(250, 250, 250);
-
 }
 
 div.wiki-main {
