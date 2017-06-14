@@ -1,0 +1,30 @@
+@page.title:    wikifier;
+@page.author:   Mitchell Cooper;
+-@page.enable.title;
+
+@category.project;
+@category.web;
+
+image {
+    float:  right;
+    file:   wikifier.png;
+    width:  500px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    wikifier is a file-based wiki engine. It is unique in that it
+    requires no database and is so simple that it can be managed with nothing
+    more than a plain text editor. Yet, it offers page and image caching, image
+    sizing, authentication/session management, and lots of other things that
+    fancy wikis use databases for.
+    
+    I created wikifier as a simple markup-to-HTML translator. I admired the wiki
+    concept but found existing wiki markup languages such as MediaWiki
+    to be unappealing to the eye. Over the years, wikifier has evolved from a
+    simple script into a complete modular wiki suite and CMS powering this
+    website and many others.
+}
+
+clear {}
