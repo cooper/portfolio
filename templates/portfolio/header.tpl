@@ -27,11 +27,11 @@
             I make apps and websites, plus other things.<br/>
             Yes, I'm afraid chartreuse <i>is</i> one of my favorite colors...
         </blockquote>
-        <ul id="navigation">
-            <li><a href="/topic/ios"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
-            <li><a href="/topic/web">Web Dev</a></li>
-            <li><a href="/topic/hobby">Hobbies</a></li>
-            <li><a href="/page/contact">Contact</a></li>
-        </ul>
     </div>
+    <ul id="navigation">
+        <li><a href="/topic/ios"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
+        <li><a href="/topic/web">Web Dev</a></li>
+        <li><a href="/topic/hobby">Hobbies</a></li>
+        <li><a href="/page/contact">Contact</a></li>
+    </ul>
     <div id="content">
