@@ -91,9 +91,7 @@ body.main #header {
 }
 
 @media screen and (max-width: 850px) {
-    #header {
-        font-size: 90%;
-    }
+    #header { font-size: 12px; /* instead of 16 */ }
 }
 
 #quote {
@@ -144,7 +142,7 @@ body.main #header {
 
 @media screen and (max-width: 700px) {
     #header, #header-bg {
-        height: 180px !important;
+        height: 100px !important;
     }
     #navigation li a {
         font-size: 18px;
