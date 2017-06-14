@@ -77,19 +77,6 @@ body.main #header {
 
 }
 
-@media screen and (min-width: 550px) {
-    #logo::after {
-        content: '';
-        width: 100%;
-        height: 5px;
-        display: block;
-        position: absolute;
-        top: 45%;
-        background-color: #00873B;
-        z-index: -1;
-    }
-}
-
 #quote {
     margin: 30px 0 0 0;
     padding: 0;
@@ -102,16 +89,6 @@ body.main #header {
     border: 20px solid chartreuse;
     height: 200px;
     max-height: 80%;
-}
-
-@media screen and (max-width: 860px) {
-    #header, #header-bg {
-        height: 230px !important; /* instead of 270 */
-        font-size: 12px; /* instead of 16 */
-    }
-    #picture {
-        max-height: 70%;
-    }
 }
 
 #navigation {
@@ -144,47 +121,6 @@ body.main #header {
     width: 100%;
 }
 
-@media screen and (max-width: 700px) {
-    #header, #header-bg {
-        height: 160px !important;
-    }
-    #navigation li a {
-        font-size: 18px;
-    }
-    #navigation {
-        width: 100%;
-        position: initial;
-        margin: 0 0 15px 0;
-    }
-    #picture {
-        display: none;
-    }
-    #quote {
-        font-size: 1.5em;
-        margin-top: 1em;
-    }
-}
-
-@media screen and (max-width: 550px) {
-    #navigation {
-        height: auto;
-    }
-    #navigation li {
-        display: block;
-        width: auto;
-        float: none;
-        border-top: 1px solid chartreuse;
-    }
-    #navigation li a {
-        text-align: left;
-        padding-left: 20px;
-        display: block;
-        width: auto;
-    }
-    #quote {
-        display: none;
-    }
-}
 
 
 #navigation li a:hover {
@@ -215,4 +151,79 @@ div.wiki-main {
 
 #content div.main-wrapper:first-child div.wiki-main {
     padding-top: 0;
+}
+
+@media screen and (min-width: 550px) {
+    #logo::after {
+        content: '';
+        width: 100%;
+        height: 5px;
+        display: block;
+        position: absolute;
+        top: 45%;
+        background-color: #00873B;
+        z-index: -1;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    #header, #header-bg {
+        height: 230px !important; /* instead of 270 */
+        font-size: 12px; /* instead of 16 */
+    }
+    #picture {
+        max-height: 70%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #header, #header-bg {
+        height: 160px !important;
+    }
+    #navigation li a {
+        font-size: 18px;
+    }
+    #navigation {
+        width: 100%;
+        position: initial;
+        margin: 0 0 15px 0;
+    }
+    #picture {
+        display: none;
+    }
+    #quote {
+        font-size: 1.5em;
+        margin-top: 1em;
+    }
+    div.wiki-main {
+        display: flex;
+        flex-direction: column;
+    }
+    div.wiki-image-left, div.wiki-imagebox-left {
+        order: -2;
+    }
+    div.wiki-image-right, div.wiki-imagebox-right {
+        order: 2;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #navigation {
+        height: auto;
+    }
+    #navigation li {
+        display: block;
+        width: auto;
+        float: none;
+        border-top: 1px solid chartreuse;
+    }
+    #navigation li a {
+        text-align: left;
+        padding-left: 20px;
+        display: block;
+        width: auto;
+    }
+    #quote {
+        display: none;
+    }
 }
