@@ -1,2 +1,8 @@
-@page.title: Redirect to projects;
-@page.redirect: ~ project;
+@page.title:    Mitchell Cooper;
+@page.author:   Mitchell Cooper;
+@page.created:  0;
+-@page.enable.title;
+
+sec {
+    Insert brief introduction here.
+}
