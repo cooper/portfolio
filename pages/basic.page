@@ -16,7 +16,9 @@ image {
 sec {
     $section_title { title: [@page.title]; }
 
+    Quality is my [i]basic[/i] policy.
 
+    This example template demonstrates a modern image-rich website.
 }
 
 clear {}
