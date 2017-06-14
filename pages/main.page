@@ -1,2 +1,2 @@
 @page.title: Redirect to projects;
-@page.redirect: [~ project ~];
+@page.redirect: ~ project;
