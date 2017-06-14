@@ -152,6 +152,6 @@ div.alternate div.wiki-main {
     color: white;
 }
 
-#content div.main-wrapper:first-child {
+#content div.main-wrapper:first-child div.wiki-main {
     padding-top: 0;
 }
