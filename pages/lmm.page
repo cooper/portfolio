@@ -17,7 +17,7 @@ sec {
 
     [b]L[/b]unch [b]M[/b]enu [b]M[/b]anger is a centralized solution for
     maintaining and distributing cafeteria menus. It is written in PHP and
-    stores data in an SQLite database, making it quite portable and fairly
+    stores data with SQLite, making it quite portable and fairly
     simple to incorporate into any facility's existing web services.
 
     LMM turns a tedious, repetitive multi-step process into one which can be
