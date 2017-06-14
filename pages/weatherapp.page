@@ -1,15 +1,33 @@
-@page.title:    iOS Weather App;
+@page.title:    WeatherApp;
 @page.author:   Mitchell Cooper;
 -@page.enable.title;
 
 @category.project;
 
-$section_title { title: [@page.title]; }
+image {
+    float:  right;
+    file:   weatherapp.png;
+    width:  400px;
+}
 
 sec {
-    We can predict it, but we can't control it.
+    $section_title { title: [@page.title]; }
+
+    We can predict it, but we can't control it. Until now.
+
+    If you're like me, you almost never check your phone's weather app. On the
+    rare occurrence that I do such a thing, I'm probably already stranded on the
+    side of the road wondering why I allow myself to be so ill-prepared.
     
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    WeatherApp warns you when it's going to rain. Hidden beneath its
+    minimalistic UI and stunning imagery, it offers more detailed
+    information than stock weather apps, including extensive forecasts and
+    historical weather data.
+    
+    I submitted the code and presented WeatherApp to a group of judges for a
+    Mobile Applications competition in Indianapolis. After being awarded first
+    place in the state, I went on to place second at the national level in
+    Spring 2014.
 }
+
+clear {}
