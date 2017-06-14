@@ -1,0 +1,22 @@
+@page.title:    Civic Life;
+@page.author:   Mitchell Cooper;
+@page.created:  698;
+-@page.enable.title;
+
+@category.hobby;
+
+/*
+image {
+    float:      right;
+    file:       civic.jpg;
+    height:     300px;
+}
+*/
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    
+}
+
+clear {}
