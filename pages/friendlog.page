@@ -10,7 +10,7 @@
 image {
     float:  right;
     file:   friendlog.png;
-    width:  500px;
+    width:  600px;
 }
 
 sec {
@@ -24,27 +24,26 @@ sec {
         The entire social networking platform was built into the service, but I
         created custom graphics in GIMP and created custom pages based on free CSS
         templates.
+
+        (after parental permission)
+        Before long, the limitations of the FreeWebs platform were becoming
+        apparent, so I experimented with Elgg, Dolphin, and some other social
+        networking frameworks before ultimately moving FriendLog over to Ning.
     */
     
     I made business cards and invitations to hand out to my peers at
     school. With mere weeks, all the coolest kids at Frontier Elementary School
     used FriendLog as their primary means of extramural communication
     (with parental permission, of course).
-    /*
-        Before long, the limitations of the FreeWebs platform were becoming
-        apparent, so I experimented with Elgg, Dolphin, and some other social
-        networking frameworks before ultimately moving FriendLog over to Ning.
-    */
     The site expanded to have hundreds of users with loads of uploaded
     content. The custom site design was colorful and ever-evolving. I made
     custom profile themes for my closest friends, too.
     
     By late 2010, FriendLog had been overtaken by younger folk and was no longer
     of interest to me, so I removed it from production. I backed up all of the
-    content on a laptop which later was lost.
-    
-    The version pictured was an incomplete recreation written from scratch in
-    PHP, but it never gained traction. FriendLog exists now only in our memory.
+    content on a laptop which later was lost. The version pictured was an
+    incomplete recreation written from scratch in PHP, but it never gained
+    traction. FriendLog exists now only in our memory.
 }
 
 clear {}
