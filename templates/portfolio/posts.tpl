@@ -1,5 +1,5 @@
 {{template "header.tpl" .}}
-{{$alternate = false}}
+{{$alternate := false}}
 {{range .Pages}}
     {{if $alternate}}
         <div class="alternate">
