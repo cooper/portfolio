@@ -18,7 +18,8 @@ sec {
     requires no database and is so simple that it can be managed with nothing
     more than a plain text editor. Yet, wikifier offers image and page caching,
     image sizing, authentication/session management, templates, page categories,
-    and lots of other things that fancy wikis use databases for.
+    revision tracking, and lots of other things for which fancy wikis use
+    databases.
         
     I created wikifier as a basic markup-to-HTML translator. I admired the wiki
     concept but found existing wiki markup languages such as MediaWiki
