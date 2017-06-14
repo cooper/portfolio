@@ -163,7 +163,7 @@ div.wiki-main {
     padding-top: 0;
 }
 
-img.wiki-image-img,
-img.wiki-imagebox-img {
+div.wiki-image,
+div.wiki-imagebox {
     max-width: 90%;
 }
