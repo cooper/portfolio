@@ -8,7 +8,7 @@
 image {
     float:      right;
     file:       garden.jpg;
-    height:     400px;
+    height:     300px;
 }
 
 sec {
