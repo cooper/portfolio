@@ -1,0 +1,19 @@
+@page.title:    adminifier;
+@page.author:   Mitchell Cooper;
+-@page.enable.title;
+
+@category.project;
+@category.web;
+
+image {
+    float:  right;
+    file:   adminifier.png;
+    width:  500px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+}
+
+clear {}
