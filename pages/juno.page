@@ -1,0 +1,19 @@
+@page.title:    juno-ircd;
+@page.author:   Mitchell Cooper;
+-@page.enable.title;
+
+@category.project;
+@category.hobby;
+
+image {
+    float:  right;
+    file:   juno.png;
+    width:  500px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+}
+
+clear {}

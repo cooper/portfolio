@@ -1,0 +1,19 @@
+@page.title:    ferret;
+@page.author:   Mitchell Cooper;
+-@page.enable.title;
+
+@category.project;
+@category.hobby;
+
+image {
+    float:  right;
+    file:   ferret.png;
+    width:  600px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+}
+
+clear {}
