@@ -1,3 +1,5 @@
 {{ template "header.tpl" . }}
-{{.HTMLContent}}
+<div class="main-wrapper">
+    {{.HTMLContent}}
+</div>
 {{ template "footer.tpl" . }}

@@ -141,15 +141,19 @@ body.main #header {
     padding-left: 20px;
 }
 
-div.wiki-main {
-    margin: auto;
-    padding: 30px 20px;
+div.main-wrapper {
     background-color: rgb(250, 250, 250);
 }
 
-div.alternate div.wiki-main {
+div.main-wrapper.alternate {
     background-color: green;
     color: white;
+}
+
+div.wiki-main {
+    padding: 30px 20px;
+    max-width: 1200px;
+    margin: auto;
 }
 
 #content div.main-wrapper:first-child div.wiki-main {
