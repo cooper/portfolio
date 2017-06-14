@@ -29,8 +29,8 @@
     </div>
 
     <ul id="navigation">
-        <li><a href="#"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
-        <li><a href="#">Web Dev</a></li>
-        <li><a href="#">Hobbies</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="/topic/ios"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
+        <li><a href="/topic/web">Web Dev</a></li>
+        <li><a href="/topic/hobby">Hobbies</a></li>
+        <li><a href="/page/contact">Contact</a></li>
     </ul>
