@@ -77,15 +77,17 @@ body.main #header {
 
 }
 
-#logo::after {
-    content: '';
-    width: 100%;
-    height: 5px;
-    display: block;
-    position: absolute;
-    top: 45%;
-    background-color: green;
-    z-index: -1;
+@media screen and (max-width: 850px) {
+    #logo::after {
+        content: '';
+        width: 100%;
+        height: 5px;
+        display: block;
+        position: absolute;
+        top: 45%;
+        background-color: green;
+        z-index: -1;
+    }
 }
 
 #quote {
@@ -161,9 +163,4 @@ div.wiki-main {
 
 #content div.main-wrapper:first-child div.wiki-main {
     padding-top: 0;
-}
-
-div.wiki-image,
-div.wiki-imagebox {
-    max-width: 90%;
 }
