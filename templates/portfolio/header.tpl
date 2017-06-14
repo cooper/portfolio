@@ -23,8 +23,8 @@
             <a href="{{.WikiRoot}}/"><span>Mitchell Cooper</span></a>
         </div>
         <blockquote id="quote">
-            I make apps and websites,<br/>
-            plus other things.
+            I make apps and websites, plus other things.
+            Yes, I'm afraid chartreuse <i>is</i> one of my favorite colors...
         </blockquote>
     </div>
 
