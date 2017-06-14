@@ -177,18 +177,17 @@ body.main #header {
     }
     #navigation li a {
         text-align: left;
-        margin-left: 20px;
+        padding-left: 20px;
+        width: auto;
     }
     #quote {
         display: none;
     }
 }
 
-#navigation li:hover {
-    background: rgba(0, 0, 0, 0.2);
-}
 
 #navigation li a:hover {
+    background: rgba(0, 0, 0, 0.2);
     color: white;
 }
 
