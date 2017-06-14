@@ -164,6 +164,18 @@ body.main #header {
     }
 }
 
+@media screen and (max-width: 550px) {
+    #navigation {
+        height: auto;
+    }
+    #navigation li {
+        display: block;
+        width: auto;
+        float: none;
+        border-top: 1px solid chartreuse;
+    }
+}
+
 
 #navigation li a:hover {
     background: rgba(0, 0, 0, 0.2);

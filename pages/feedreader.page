@@ -17,10 +17,11 @@ sec {
 
     Where you get your news is up to you. But some of us are too indecisive.
 
-    FeedReader conveniently displays breaking news from a diverse pool of
-    sources. Users can choose from major networks or add custom feeds. The app
-    features background fetching, article categorization, marking for later
-    reading, bulk actions, and more. It was my first project written in Swift.
+    FeedReader synthesizes and conveniently displays breaking news from a diverse
+    pool of sources. Users can choose from major networks or add custom feeds.
+    The app features background fetching, article categorization, marking for
+    later reading, bulk actions, and more. It was my first project written in
+    Swift.
     
     In Spring 2015, I submitted the code for FeedReader and presented it to a
     group of judges for a Mobile Applications competition. I then ventured to

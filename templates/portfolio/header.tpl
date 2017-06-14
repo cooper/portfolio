@@ -21,7 +21,7 @@
     <div id="header">
         <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
         <div id="logo">
-            <a href="{{.WikiRoot}}/"><span>Mitchell Cooper</span></a>
+            <a href="{{.WikiRoot}}/"><span>{{.WikiTitle}}</span></a>
         </div>
         <blockquote id="quote">
             I make apps and websites, plus other things.<br/>
