@@ -7,7 +7,12 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-::selection, ::-moz-selection {
+::selection {
+    background-color: #B1FF61;
+    color: #104000;
+}
+
+::-moz-selection {
     background-color: #B1FF61;
     color: #104000;
 }
