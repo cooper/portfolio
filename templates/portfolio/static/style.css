@@ -147,6 +147,10 @@ div.wiki-main {
     background-color: rgb(250, 250, 250);
 }
 
+#content div.wiki-main:first-child {
+    padding-top: 0;
+}
+
 div.alternate div.wiki-main {
     background-color: green;
     color: white;
