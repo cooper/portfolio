@@ -1,6 +1,6 @@
-@page.title:    Basic Body and Paint;
+@page.title:    Small Town, USA;
 @page.author:   Mitchell Cooper;
-@page.created:  599;
+@page.created:  598;
 -@page.enable.title;
 
 @category.project;
@@ -9,16 +9,14 @@
 
 image {
     float:  right;
-    file:   basic.png;
+    file:   smalltown.png;
     width:  500px;
 }
 
 sec {
     $section_title { title: [@page.title]; }
 
-    Quality is my [i]basic[/i] policy.
-
-    This example template demonstrates a modern image-rich website.
+    This example template demonstrates a municipal website.
 }
 
 clear {}

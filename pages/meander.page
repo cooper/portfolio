@@ -1,0 +1,21 @@
+@page.title:    Meander;
+@page.author:   Mitchell Cooper;
+@page.created:  997;
+-@page.enable.title;
+
+@category.project;
+@category.ios;
+
+image {
+    float:  right;
+    file:   meander.png;
+    width:  400px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    
+}
+
+clear {}
