@@ -1,4 +1,4 @@
-@page.title:    ferret;
+@page.title:    Ferret;
 @page.author:   Mitchell Cooper;
 -@page.enable.title;
 
@@ -14,7 +14,22 @@ image {
 sec {
     $section_title { title: [@page.title]; }
 
+    Ferret is an evented, objective hobby programming language.
+
+    By [i]evented[/i], I mean that all functions are implemented as events,
+    each of which can have any number of responders and return values.
+    By [i]objective[/i], I mean that all values in Ferret are objects.
+    By [i]hobby[/i], I mean that I know it will probably never be used by any
+    project to be taken seriously.
     
+    I don't think it's uncommon for a programmer to visualization an idealist
+    language with all of their favorite features from each existing language
+    glued together. But it's probably not that common to take the time to
+    fabricate such a thing. Ferret is my actualization of exactly that.
+    
+    Both the Ferret compiler and runtime are written in Perl currently, but I'm
+    in the process of porting the runtime to Go. Eventually the Perl compiler
+    will generate bytecode which runs in a Go interpreter.
 }
 
 clear {}
