@@ -200,9 +200,11 @@ div.wiki-main {
         flex-direction: column;
     }
     div.wiki-image-left, div.wiki-imagebox-left {
+        float: none;
         order: 1;
     }
     div.wiki-image-right, div.wiki-imagebox-right {
+        float: none;
         order: 2;
     }
 }
