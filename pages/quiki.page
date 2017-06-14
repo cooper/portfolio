@@ -22,10 +22,9 @@ sec {
     wikifier via some sort of transport, usually utilizing PHP or some other
     intermediate language to do so.
     
-    quiki makes it easier to get a wikifier-based site up and running in just
-    minutes. It runs as a standalone server with built-in logic for
-    communicating with wikifier, eliminating the need for a messy intermediary.
-    It can be proxied to incorporate into any existing web environment.
+    quiki makes it easier to get a site up and running in just minutes,
+    eliminating the need for an intermediary. It can be incorporated into any
+    existing web environment with a proxy.
     
     quiki powers this website and several others.
 }
