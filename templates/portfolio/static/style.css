@@ -137,6 +137,10 @@ body.main #header {
 }
 
 @media screen and (max-width: 700px) {
+    #header, #header-bg {
+        white-space: nowrap;
+        height: 180px;
+    }
     #navigation li a {
         font-size: 18px;
     }
@@ -145,7 +149,7 @@ body.main #header {
         position: initial;
         margin: 0 0 15px 0;
     }
-    #picture {
+    #picture, #quote {
         display: none;
     }
 }
