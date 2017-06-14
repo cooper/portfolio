@@ -163,7 +163,8 @@ body.main #header {
         display: none;
     }
     #quote {
-        font-size: 1em;
+        font-size: 1.5em;
+        margin-top: 1em;
     }
 }
 
