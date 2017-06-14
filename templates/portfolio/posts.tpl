@@ -1,9 +1,9 @@
 {{template "header.tpl" .}}
 {{range $i, $p := .Pages}}
     {{with $alternate := odd $i }}
-        <div class="alternate">
+        <div class="main-wrapper alternate">
     {{else}}
-        <div>
+        <div class="main-wrapper">
     {{end}}
         {{$p.HTMLContent}}
     </div>
