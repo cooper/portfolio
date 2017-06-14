@@ -19,12 +19,14 @@ sec {
     more than a plain text editor. Yet, wikifier offers image and page caching,
     image sizing, authentication/session management, templates, page categories,
     and lots of other things that fancy wikis use databases for.
-    
+        
     I created wikifier as a basic markup-to-HTML translator. I admired the wiki
     concept but found existing wiki markup languages such as MediaWiki
-    to be unappealing to the eye. Over the years, wikifier has evolved from a
-    simple script into a complete modular wiki suite and CMS powering this
-    website and many others.
+    to be unappealing to the eye. The wikifier source language is much easier
+    to look at (and in my opinion, to write) than most.
+    
+    Over the years, wikifier has evolved from a simple script into a complete
+    modular wiki suite and CMS powering this website and many others.
 }
 
 clear {}

@@ -14,6 +14,8 @@ image {
 sec {
     $section_title { title: [@page.title]; }
     
+    Yes. It really is an IRC daemon. It's written in Perl.
+    
     juno is a seriously modern chat server. It is designed to be ridiculously
     extensible, painlessly reloadable, and excessively configurable.
     
