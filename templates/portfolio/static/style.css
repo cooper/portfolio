@@ -162,3 +162,8 @@ div.wiki-main {
 #content div.main-wrapper:first-child div.wiki-main {
     padding-top: 0;
 }
+
+img.wiki-image-img,
+img.wiki-imagebox-img {
+    max-width: 90%;
+}
