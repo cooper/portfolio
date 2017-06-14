@@ -199,8 +199,12 @@ div.wiki-main {
         display: flex;
         flex-direction: column;
     }
+    div.wiki-image, div.wiki-imagebox {
+        float: none !important;
+        margin: 0 !important;
+        text-align: center;
+    }
     div.wiki-image-left, div.wiki-imagebox-left {
-        float: none;
         order: 1;
     }
     div.wiki-image-right, div.wiki-imagebox-right {
