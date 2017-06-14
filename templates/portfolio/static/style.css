@@ -77,7 +77,7 @@ body.main #header {
 
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 550px) {
     #logo::after {
         content: '';
         width: 100%;
@@ -159,8 +159,11 @@ body.main #header {
         position: initial;
         margin: 0 0 15px 0;
     }
-    #picture, #quote {
+    #picture {
         display: none;
+    }
+    #quote {
+        font-size: 1em;
     }
 }
 
