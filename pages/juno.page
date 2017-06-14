@@ -13,7 +13,19 @@ image {
 
 sec {
     $section_title { title: [@page.title]; }
-
+    
+    juno is a seriously modern chat server. It is designed to be ridiculously
+    extensible, painlessly reloadable, and excessively configurable.
+    
+    Perl is one of my favorite languages, and this is my showcase project
+    gluing together many of my open source libraries written in it. One of the
+    features I am most proud of is the ability to upgrade the entire application
+    without dropping any network connections.
+    
+    I have been developing juno since late 2009, making it the most mature of
+    my hobby projects still under active development. It started as a fork of
+    pIRCd and was my first project in Perl, but it has since been rewritten from
+    the ground up a couple times. The current codebase dates back to 2011.
 }
 
 clear {}
