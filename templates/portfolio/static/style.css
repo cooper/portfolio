@@ -139,7 +139,7 @@ body.main #header {
 @media screen and (max-width: 700px) {
     #header, #header-bg {
         white-space: nowrap;
-        height: 180px;
+        height: 180px !important;
     }
     #navigation li a {
         font-size: 18px;
