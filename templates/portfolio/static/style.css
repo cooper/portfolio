@@ -7,6 +7,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+::selection {
+    background-color: #B1FF61;
+}
+
 a {
     text-decoration: none;
     color: chartreuse;
@@ -153,6 +157,7 @@ div.wiki-main {
     padding-top: 0;
 }
 
+/* horizontal bar on logo */
 @media screen and (min-width: 550px) {
     #logo::after {
         content: '';
@@ -166,6 +171,7 @@ div.wiki-main {
     }
 }
 
+/* smaller header */
 @media screen and (max-width: 860px) {
     #header, #header-bg {
         height: 230px !important; /* instead of 270 */
@@ -176,10 +182,13 @@ div.wiki-main {
     }
 }
 
+/* even smaller layout */
 @media screen and (max-width: 700px) {
     #header, #header-bg {
         height: 160px !important;
     }
+    
+    /* full-width navigation */
     #navigation li a {
         font-size: 18px;
     }
@@ -188,13 +197,19 @@ div.wiki-main {
         position: initial;
         margin: 0 0 15px 0;
     }
+    
+    /* hide picture */
     #picture {
         display: none;
     }
+    
+    /* smaller quote */
     #quote {
         font-size: 1.5em;
         margin-top: 1em;
     }
+    
+    /* show images vertically with text instead of float */
     div.wiki-main {
         display: flex;
         flex-direction: column;
@@ -213,7 +228,10 @@ div.wiki-main {
     }
 }
 
+/* tiny layout */
 @media screen and (max-width: 550px) {
+    
+    /* switch to vertical navigation */
     #navigation {
         height: auto;
     }
@@ -229,6 +247,8 @@ div.wiki-main {
         display: block;
         width: auto;
     }
+    
+    /* hide quote */
     #quote {
         display: none;
     }
