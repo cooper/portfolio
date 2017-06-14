@@ -1,11 +1,11 @@
 {{template "header.tpl" .}}
-{{range .Pages}}
+{{range $i, $p := .Pages}}
     {{with $alternate := odd $i }}
         <div class="alternate">
     {{else}}
         <div>
     {{end}}
-        {{.HTMLContent}}
+        {{$p.HTMLContent}}
     </div>
 {{end}}
 {{template "footer.tpl" .}}
