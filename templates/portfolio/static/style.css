@@ -199,11 +199,11 @@ div.wiki-main {
         display: flex;
         flex-direction: column;
     }
-    div.wiki-main h2 {
-        order: -2;
+    div.wiki-image-left, div.wiki-imagebox-left {
+        order: 1;
     }
-    div.wiki-image, div.wiki-imagebox {
-        order: -1;
+    div.wiki-image-right, div.wiki-imagebox-right {
+        order: 2;
     }
 }
 
