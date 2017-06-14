@@ -1,0 +1,22 @@
+@page.title:    Basic Body and Paint;
+@page.author:   Mitchell Cooper;
+@page.created:  699;
+-@page.enable.title;
+
+@category.project;
+@category.web;
+@category.website;
+
+image {
+    float:  right;
+    file:   basic.png;
+    width:  500px;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+
+}
+
+clear {}
