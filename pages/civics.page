@@ -16,7 +16,7 @@ image {
 sec {
     $section_title { title: [@page.title]; }
 
-    
+    Insert something about my involvement in the Hysterical Society here.
 }
 
 clear {}
