@@ -3,6 +3,8 @@
 @page.created:  599;
 -@page.enable.title;
 
+@link: http://basicbodyandpaint.rlygd.net;
+
 @category.project;
 @category.web;
 @category.website;
@@ -11,11 +13,14 @@ image {
     float:  right;
     file:   basic.png;
     width:  500px;
-    link:   none;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     Quality is my [i]basic[/i] policy.
 
