@@ -3,6 +3,8 @@
 @page.created:  898;
 -@page.enable.title;
 
+@link: http://wikifier.notroll.net;
+
 @category.project;
 @category.web;
 
@@ -10,12 +12,13 @@ image {
     float:  right;
     file:   wikifier.png;
     width:  500px;
+    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   http://wikifier.notroll.net;
+        link:   [@link];
     }
 
     wikifier is a file-based wiki engine and CMS.

@@ -1,5 +1,5 @@
 if [@m.link] {
-    format {<h2><span><a href="[@m.link]">[%m.title]</a></span></h2>}
+    format {<h2><span><a target="_blank" href="[@m.link]">[%m.title]</a></span></h2>}
 }
 else {
     format {<h2><span>[%m.title]</span></h2>}
