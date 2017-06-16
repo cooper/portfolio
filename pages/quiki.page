@@ -3,6 +3,8 @@
 @page.created:  896;
 -@page.enable.title;
 
+@link: https://github.com/cooper/quiki;
+
 @category.project;
 @category.web;
 
@@ -10,10 +12,14 @@ image {
     float:  right;
     file:   quiki.png;
     width:  500px;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     quiki is a standalone web server for wikifier.
     

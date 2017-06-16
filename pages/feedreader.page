@@ -10,6 +10,7 @@ image {
     float:  right;
     file:   feedreader.png;
     width:  400px;
+    link:   none;
 }
 
 sec {

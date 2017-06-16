@@ -10,6 +10,7 @@ image {
     float:  right;
     file:   weatherapp.png;
     width:  400px;
+    link:   none;
 }
 
 sec {

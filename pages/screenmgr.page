@@ -3,6 +3,8 @@
 @page.created:  797;
 -@page.enable.title;
 
+@link: https://github.com/cooper/screenmgr;
+
 @category.project;
 @category.hobby;
 
@@ -10,10 +12,14 @@ image {
     float:  right;
     file:   screenmgr.png;
     width:  500px;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     screenmgr is a tool for monitoring and managing a collection of computer
     screens. It communicates with devices on a local network via a number of

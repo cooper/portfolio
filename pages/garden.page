@@ -9,6 +9,7 @@ image {
     float:      right;
     file:       garden.jpg;
     height:     300px;
+    link:       none;
 }
 
 sec {

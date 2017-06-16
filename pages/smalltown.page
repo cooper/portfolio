@@ -3,6 +3,8 @@
 @page.created:  598;
 -@page.enable.title;
 
+@link: http://smalltown.rlygd.net;
+
 @category.project;
 @category.web;
 @category.website;
@@ -11,10 +13,14 @@ image {
     float:  right;
     file:   smalltown.png;
     width:  500px;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     This template demonstrates a municipal website concept.
     

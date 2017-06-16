@@ -3,6 +3,8 @@
 @page.created:  899;
 -@page.enable.title;
 
+@link: https://github.com/cooper/lunch-menu-manager;
+
 @category.project;
 @category.web;
 
@@ -10,10 +12,14 @@ image {
     float:  right;
     file:   lmm.png;
     width:  500px;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     [b]L[/b]unch [b]M[/b]enu [b]M[/b]anger is a centralized solution for
     maintaining and distributing cafeteria menus. It is written in PHP and

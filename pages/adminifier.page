@@ -10,10 +10,13 @@ image {
     float:  right;
     file:   adminifier.png;
     width:  500px;
+    link:   none;
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+    }
 
     adminifier is an administrative web panel for wikifier.
     

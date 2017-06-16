@@ -10,6 +10,7 @@ image {
     float:      right;
     file:       civic.jpg;
     height:     300px;
+    link:       none;
 }
 */
 

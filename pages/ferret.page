@@ -3,6 +3,8 @@
 @page.created:  799;
 -@page.enable.title;
 
+@link: http://ferret.notroll.net;
+
 @category.project;
 @category.hobby;
 
@@ -10,10 +12,14 @@ image {
     float:  right;
     file:   ferret.png;
     width:  400px;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     Ferret is an evented, objective hobby programming language.
 
