@@ -19,7 +19,7 @@ body {
 
 a {
     text-decoration: none;
-    color: chartreuse;
+    color: #0084FF;
 }
 
 a:hover {
@@ -39,6 +39,18 @@ h2, h3, h4 {
 h2 span, h3 span, h4 span {
     border-bottom: 5px solid chartreuse;
     display: inline-block;
+}
+
+h2 a,
+h3 a,
+h4 a,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+.wiki-main h2 a:hover,
+.wiki-main h3 a:hover,
+.wiki-main h4 a:hover {
+    color: inherit;
 }
 
 /* header background color */
