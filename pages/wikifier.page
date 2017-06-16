@@ -13,7 +13,10 @@ image {
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   http://wikifier.notroll.net;
+    }
 
     wikifier is a file-based wiki engine and CMS.
     

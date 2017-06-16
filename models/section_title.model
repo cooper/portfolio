@@ -1,1 +1,6 @@
-format {<h2><span>[%m.title]</span></h2>}
+if [@m.link] {
+    format {<h2><span><a href="[@m.link]">[%m.title]</a></span></h2>}
+}
+else {
+    format {<h2><span>[%m.title]</span></h2>}
+}

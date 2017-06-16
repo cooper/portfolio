@@ -15,7 +15,7 @@ image {
 sec {
     $section_title { title: [@page.title]; }
 
-    Where you get your news is up to you. But some of us are indecisive.
+    Where you get your news is up to you. But some of us are too indecisive.
 
     FeedReader synthesizes and conveniently displays breaking news from a diverse
     pool of sources. Users can choose from major networks or add custom feeds.
