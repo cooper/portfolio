@@ -183,7 +183,7 @@ div.wiki-main {
     padding-top: 0;
 }
 
-@media screen and (mix-width: 1200px) {
+@media screen and (min-width: 1200px) {
     #navigation { margin: 0; }
 }
 
