@@ -87,7 +87,7 @@ h4 a:hover,
 #logo span {
     padding-right: 20px;
     background-color: chartreuse;
-
+    position: relative; /* for z-index */
 }
 
 #quote {
