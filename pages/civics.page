@@ -3,7 +3,7 @@
 @page.created:  698;
 -@page.enable.title;
 
-@category.hobby;
+/* @category.hobby; */
 
 /*
 image {

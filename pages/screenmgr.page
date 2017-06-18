@@ -34,7 +34,7 @@ sec {
     My diverse collection of old computers was the motivation for this project.
     It originally was written in node.js and Perl, only supporting Mac OS 8/9/X
     for my Power Mac collection. But I later rewrote it in Go and added support
-    for Windows and more UNIX-like operating systems.
+    for Windows and UNIX-like operating systems.
 }
 
 clear {}
