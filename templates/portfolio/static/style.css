@@ -116,15 +116,20 @@ body.main #header {
     max-height: 80%;
 }
 
+#navigation-container {
+    max-width: 1200px;
+    position: relative;
+    top: -25px;
+    margin: auto;
+}
+
 #navigation {
     list-style-type: none;
     width: 80%;
     max-width: 900px;
     height: 50px;
     background-color: #00873B;
-    position: relative;
-    top: -25px;
-    margin: 0 0 0 20px;
+    margin: 0;
     padding: 0;
 }
 
@@ -178,6 +183,10 @@ div.wiki-main {
     padding-top: 0;
 }
 
+@media screen and (max-width: 1220px) {
+    #navigation { margin-left: 20px; }
+}
+
 /* horizontal bar on logo */
 @media screen and (min-width: 550px) {
     #logo::after {
@@ -213,9 +222,11 @@ div.wiki-main {
     #navigation li a {
         font-size: 18px;
     }
+    #navigation-container {
+        position: initial;
+    }
     #navigation {
         width: 100%;
-        position: initial;
         margin: 0 0 15px 0;
     }
     
