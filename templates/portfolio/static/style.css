@@ -62,6 +62,7 @@ h4 a:hover,
     background-color: chartreuse;
     position: relative; /* for z-index */
     z-index: -2;
+    margin-bottom: 30px;
 }
 
 #header {
@@ -114,6 +115,7 @@ h4 a:hover,
     position: relative;
     top: 15px;
     padding: 0;
+    margin: 0;
 }
 
 #navigation li {
