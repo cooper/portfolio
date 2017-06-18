@@ -19,14 +19,16 @@
 <body class="main">
     <div id="header-container">
         <div id="header">
-            <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
-            <div id="logo">
-                <a href="{{.WikiRoot}}/"><span>{{.WikiTitle}}</span></a>
+            <div id="header-content">
+                <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
+                <div id="logo">
+                    <a href="{{.WikiRoot}}/"><span>{{.WikiTitle}}</span></a>
+                </div>
+                <blockquote id="quote">
+                    I make apps and websites, plus other things.<br/>
+                    Yes, I'm afraid chartreuse <i>is</i> one of my favorite colors...
+                </blockquote>
             </div>
-            <blockquote id="quote">
-                I make apps and websites, plus other things.<br/>
-                Yes, I'm afraid chartreuse <i>is</i> one of my favorite colors...
-            </blockquote>
             <ul id="navigation">
                 <li><a href="/topic/ios"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
                 <li><a href="/topic/web">Web Dev</a></li>
