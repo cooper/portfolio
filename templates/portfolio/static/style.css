@@ -224,8 +224,10 @@ div.wiki-main {
         font-size: 18px;
     }
     #navigation-container {
-        width: 100%;
         position: initial;
+    }
+    #navigation {
+        width: 100%;
         margin: 0 0 15px 0;
     }
     
