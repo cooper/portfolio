@@ -88,6 +88,7 @@ h4 a:hover,
     padding-right: 20px;
     background-color: chartreuse;
     position: relative; /* for z-index */
+    z-index: 1;
 }
 
 #quote {
@@ -176,7 +177,6 @@ div.wiki-main {
         position: absolute;
         top: 45%;
         background-color: #00873B;
-        z-index: -1;
     }
 }
 
