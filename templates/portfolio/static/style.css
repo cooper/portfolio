@@ -185,7 +185,7 @@ div.wiki-main {
 
 /* at 1200 width, disable margin on navigation */
 /* change this if changing padding: 20px; */
-@media screen and (min-width: 1880px) {
+@media screen and (min-width: 1180px) {
     #navigation { margin: 0; }
 }
 
