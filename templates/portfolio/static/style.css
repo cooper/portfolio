@@ -129,7 +129,7 @@ body.main #header {
     max-width: 900px;
     height: 50px;
     background-color: #00873B;
-    margin: 0 0 0 20px;
+    margin: 0;
     padding: 0;
 }
 
@@ -183,9 +183,8 @@ div.wiki-main {
     padding-top: 0;
 }
 
-/* at 1200 width, disable margin on navigation */
-@media screen and (min-width: 1200px) {
-    #navigation { margin: 0; }
+@media screen and (max-width: 1220px) {
+    #navigation { margin-left: 20px; }
 }
 
 /* horizontal bar on logo */
