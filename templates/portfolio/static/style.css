@@ -183,12 +183,6 @@ div.wiki-main {
     padding-top: 0;
 }
 
-/* at 1200 width, disable margin on navigation */
-/* change this if changing padding: 20px; */
-@media screen and (min-width: 1220px) {
-    #navigation { margin: 0; }
-}
-
 /* horizontal bar on logo */
 @media screen and (min-width: 550px) {
     #logo::after {
