@@ -223,7 +223,7 @@ div.wiki-main {
     #navigation li a {
         font-size: 18px;
     }
-    #navigation {
+    #navigation-container {
         width: 100%;
         position: initial;
         margin: 0 0 15px 0;
