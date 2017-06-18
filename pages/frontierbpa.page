@@ -1,7 +1,9 @@
-=@page.title:   Frontier BPA;
+@page.title:   Frontier BPA;
 @page.author:   Mitchell Cooper;
 @page.created:  597;
 -@page.enable.title;
+
+@link: http://frontierbpa.rlygd.net;
 
 @category.project;
 @category.web;
@@ -11,11 +13,14 @@ image {
     float:  right;
     file:   bpa.png;
     width:  500px;
-    link:   none;
+    link:   [@link];
 }
 
 sec {
-    $section_title { title: [@page.title]; }
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
 
     Today's students. Tomorrow's business professionals.
     
