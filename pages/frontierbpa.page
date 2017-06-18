@@ -1,0 +1,33 @@
+=@page.title:   Frontier BPA;
+@page.author:   Mitchell Cooper;
+@page.created:  597;
+-@page.enable.title;
+
+@category.project;
+@category.web;
+@category.website;
+
+image {
+    float:  right;
+    file:   bpa.png;
+    width:  500px;
+    link:   none;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Today's students. Tomorrow's business professionals.
+    
+    After being elected President of my high school's Business Professionals of
+    America chapter, one of my primary goals was to strengthen our online
+    presence. I felt this would not only promote interest in our organization
+    and its goals; but it would also be a useful tool in attracting potential
+    contributors to our primarily donation-supported platform.
+    
+    The wikifier-based site features a daily activity journal, member
+    biographies, competitive event rules and results, a photo gallery, a
+    calendar, and more.
+}
+
+clear {}
