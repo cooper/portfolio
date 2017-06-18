@@ -34,7 +34,7 @@ sec {
     I have been developing juno since late 2009, making it the most mature of
     my hobby projects still under active development. It started as a fork of
     pIRCd and was my first project in Perl, but it has since been rewritten from
-    the ground up a couple times. The current codebase dates back to 2011.
+    the ground up a couple times.
 }
 
 clear {}
