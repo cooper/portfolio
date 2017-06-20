@@ -1,0 +1,12 @@
+@page.title:    Contact me;
+@page.author:   Mitchell Cooper;
+-@page.enable.title;
+
+sec {
+    $section_title { title: [@page.title]; }
+    [[ Let's get in touch | mailto:mitchell@mitchellcooper.me ]].
+}
+
+sec {
+    $section_title { title: Social; }
+}
