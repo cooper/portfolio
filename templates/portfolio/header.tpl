@@ -17,7 +17,7 @@
         <script type="text/javascript" src="{{.}}"></script>
     {{end}}
 </head>
-<body class="main">
+<body>
     <div id="header-bg"></div>
     <div id="header">
         <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
@@ -31,10 +31,9 @@
     </div>
     <div id="navigation-container">
         <ul id="navigation">
-            <li><a href="/topic/ios"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
-            <li><a href="/topic/web">Web Dev</a></li>
-            <li><a href="/topic/hobby">Hobbies</a></li>
-            <li><a href="/page/contact">Contact</a></li>
+            {{range .Navigation}}
+                <li><a href="{{.Link}}">{{.Display}}</a></li>
+            {{end}}
         </ul>
     </div>
     <div id="content">
