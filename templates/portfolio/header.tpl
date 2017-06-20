@@ -3,6 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <meta name="description" content="Freelance web and mobile app developer. Let's bring your idea to life." />
+    <meta name="keywords" content="web development, web developer, app development, freelance, programming, coding, developer" />
+    <meta name="author" content="Mitchell Cooper">
     <title>{{.VisibleTitle}}</title>
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500%7COpen+Sans" />
     <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" /> -->
