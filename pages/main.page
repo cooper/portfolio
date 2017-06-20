@@ -4,5 +4,17 @@
 -@page.enable.title;
 
 sec {
-    Insert brief introduction here.
+    Hi, I'm Mitch. I'm a freelance web and mobile app developer.
+    
+    For years I've been privileged to offer computer support and repair services
+    to the Greater Lafayette, Indiana area; but recently my time has been
+    allocated mostly to freelance and hobby software developments.
+    
+    I would be thrilled to work with you on your next project, whether it be
+    a simple website like this one or a sophisticated million-dollar app idea.
+    
+    You'll find on this site an assortment of my current and past works,
+    each demonstrating my diverse skillset.
 }
+
+/*let's bring your idea to life*/
