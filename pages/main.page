@@ -4,12 +4,15 @@
 -@page.enable.title;
 
 sec {
-    Hi, I'm Mitch.
+    p {
+        style { font-size: 1.8em; }
+        Hi, I'm Mitch.
+    }
     
     I'm a freelance web and mobile app developer.
     
     For years I've been privileged to offer computer support and repair services
-    to the Greater Lafayette, Indiana area; but recently my time has been
+    to the Greater Lafayette, Indiana area; but more recently my time has been
     allocated mostly to freelance and hobby software developments.
     
     I would be thrilled to work with you on your next project, whether it be
