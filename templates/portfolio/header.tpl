@@ -32,7 +32,11 @@
     <div id="navigation-container">
         <ul id="navigation">
             {{range .Navigation}}
-                <li><a href="{{.Link}}">{{.Display}}</a></li>
+                {{if eq .Display "iOS Dev"}}
+                    <li><a href="{{.Link}}"><span style="text-transform: lowercase;">i</span>OS Dev</a></li>
+                {{else}}
+                    <li><a href="{{.Link}}">{{.Display}}</a></li>
+                {{end}}
             {{end}}
         </ul>
     </div>
