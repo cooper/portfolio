@@ -3,6 +3,16 @@
 @page.created:  0;
 -@page.enable.title;
 
+sec.main-right {
+
+    $section_title { title: Let's talk; }
+    Paragraph 1
+    
+    $section_title { title: Stalk me; }
+    Paragraph 2
+    
+}
+
 sec {
 
     p {
@@ -20,10 +30,6 @@ sec {
     a simple website like this one or a sophisticated million-dollar app idea.
     You'll find on this site an assortment of my current and past works,
     each demonstrating my diverse skillset.
-}
-
-sec.main-right {
-    test
 }
 
 /*let's bring your idea to life*/

@@ -181,7 +181,7 @@ div.wiki-main {
 div.wiki-class-main-right {
     float: right;
     width: 700px;
-    min-height: 700px;
+    /*min-height: 700px;*/
 }
 
 @media screen and (max-width: 1220px) {
