@@ -1,4 +1,6 @@
-$social_button { icon: envelope;    link: mailto:mitchell@rlygd.net; }
-$social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
-$social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
-$social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
+sec.social-buttons {
+    $social_button { icon: envelope;    link: mailto:mitchell@rlygd.net; }
+    $social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
+    $social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
+    $social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
+}

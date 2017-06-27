@@ -5,14 +5,10 @@
 
 sec.main-right {
     $section_title { title: Check out my work; }
-    sec.social-buttons {
-        $work {}
-    }
+    $work {}
 
     $section_title { title: Stalk me; }
-    sec.social-buttons {
-        $stalk {}
-    }
+    $stalk {}
 }
 
 sec {
