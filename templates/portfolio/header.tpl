@@ -8,7 +8,7 @@
     <meta name="author" content="Mitchell Cooper">
     <title>{{.VisibleTitle}}</title>
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500%7COpen+Sans" />
-    <!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" /> -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" type="text/css" href="{{.StaticRoot}}/style.css" />
     <link rel="stylesheet" type="text/css" href="/static/wiki.css" />
     {{with .PageCSS}}
