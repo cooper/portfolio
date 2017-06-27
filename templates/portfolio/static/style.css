@@ -191,13 +191,8 @@ div.wiki-class-main-right h4 span {
     display: block;
 }
 
-ul.social-buttons {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
 
-ul.social-buttons li {
+.wiki-class-social-buttons a {
     display: inline-block;
     margin-right: 10px;
     width: 50px;
@@ -207,13 +202,10 @@ ul.social-buttons li {
     background: #00873B;
     border-radius: 100%;
     font-size: 25px;
-}
-
-ul.social-buttons li a {
     color: #fff;
 }
 
-ul.social-buttons li a:hover {
+.wiki-class-social-buttons a:hover {
     color: chartreuse;
 }
 
