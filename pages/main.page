@@ -16,6 +16,8 @@ sec.main-right {
 }
 
 sec {
+
+    /* this keeps the text from wrapping beneath the social buttons */
     style { overflow: hidden; }
     
     p {
@@ -34,5 +36,3 @@ sec {
     You'll find on this site an assortment of my current and past works,
     each demonstrating my diverse skillset.
 }
-
-/*let's bring your idea to life*/
