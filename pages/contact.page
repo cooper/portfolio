@@ -1,0 +1,11 @@
+@page.title:    Contact;
+@page.author:   Mitchell Cooper;
+@page.created:  1;
+-@page.enable.title;
+
+p {
+    style { font-size: 1.8em; }
+    Let's bring your idea to life.
+}
+
+$social {}

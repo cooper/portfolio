@@ -3,25 +3,8 @@
 @page.created:  0;
 -@page.enable.title;
 
-style [.large] {
-    font-size: 1.8em;
-}
-
 sec.main-right {
-    html { <h2>Check out my work</h2> }
-    sec.social-buttons {
-        $social_button { icon: github-alt;  link: https://github.com/cooper; }
-        $social_button { icon: metacpan;    link: https://metacpan.org/author/COOPER; }
-        $social_button { icon: linkedin;    link: https://www.linkedin.com/in/mitchell-c-a52a7598; }
-    }
-    
-    html { <h2>Stalk me</h2> }
-    sec.social-buttons {
-        $social_button { icon: envelope;    link: mailto:mitchell@rlygd.net; }
-        $social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
-        $social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
-        $social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
-    }
+    $social {}
 }
 
 sec {
@@ -29,7 +12,8 @@ sec {
     /* this keeps the text from wrapping beneath the social buttons */
     style { overflow: hidden; }
     
-    p.large {
+    p {
+        style { font-size: 1.8em; }
         Hi, I'm Mitch.
     }
     
@@ -43,8 +27,4 @@ sec {
     a simple website like this one or a sophisticated million-dollar app idea.
     You'll find on this site an assortment of my current and past works,
     each demonstrating my diverse skillset.
-    
-    p.large {
-        [[ Let's bring your idea to life. | mitchell@rlygd.net ]]
-    }
 }
