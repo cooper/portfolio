@@ -214,6 +214,11 @@ div.wiki-class-main-right h4 span {
     color: chartreuse;
 }
 
+.fa-metacpan:before {
+    content: "\2e2c";
+    font-weight: bold;
+}
+
 @media screen and (max-width: 1220px) {
     #navigation { margin-left: 20px; }
 }
