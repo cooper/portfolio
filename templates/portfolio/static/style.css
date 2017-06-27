@@ -192,7 +192,7 @@ div.wiki-class-main-right h4 span {
 }
 
 
-.wiki-class-social-buttons a {
+.wiki-main .wiki-class-social-buttons a {
     display: inline-block;
     margin-right: 10px;
     width: 50px;
@@ -205,7 +205,7 @@ div.wiki-class-main-right h4 span {
     color: #fff;
 }
 
-.wiki-class-social-buttons a:hover {
+.wiki-main .wiki-class-social-buttons a:hover {
     color: chartreuse;
 }
 
