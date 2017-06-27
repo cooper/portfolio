@@ -313,7 +313,7 @@ div.wiki-class-main-right h2 {
 /* tiny layout */
 @media screen and (max-width: 550px) {
     #header, #header-bg {
-        font-size: 8px; /* instead of 10 */
+        font-size: 9px; /* instead of 10 */
     }
     /* switch to vertical navigation */
     #navigation {
