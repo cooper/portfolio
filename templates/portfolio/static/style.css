@@ -181,7 +181,7 @@ div.wiki-main {
 div.wiki-class-main-right {
     color: #00873B;
     float: right;
-    margin-right: 10px;
+    margin: 0 0 20px 20px;
     background-color: chartreuse;
     padding: 0 20px;
 }
