@@ -4,7 +4,15 @@
 -@page.enable.title;
 
 sec.main-right {
-    $social {}
+    $section_title { title: Check out my work; }
+    sec.social-buttons {
+        $work {}
+    }
+
+    $section_title { title: Stalk me; }
+    sec.social-buttons {
+        $stalk {}
+    }
 }
 
 sec {
