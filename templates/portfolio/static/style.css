@@ -89,12 +89,12 @@ h4 a:hover,
     font-size: 3em;
     font-weight: 500;
     font-family: 'Montserrat', sans-serif;
+    white-space: nowrap;
 }
 
 #logo span {
     padding-right: 20px;
     background-color: chartreuse;
-
 }
 
 #quote {
@@ -218,6 +218,7 @@ div.wiki-class-main-right h2 {
 .fa-metacpan:before {
     content: "\2e2c";
     font-weight: bold;
+    font-family: sans-serif;
     text-shadow: 1px 1px white, -1px -1px white, 1px -1px white, -1px 1px white;
     position: relative;
     bottom: 2px;
@@ -257,6 +258,7 @@ div.wiki-class-main-right h2 {
 @media screen and (max-width: 700px) {
     #header, #header-bg {
         height: 160px !important;
+        font-size: 10px; /* instead of 12 */
     }
     
     /* full-width navigation */
@@ -310,7 +312,9 @@ div.wiki-class-main-right h2 {
 
 /* tiny layout */
 @media screen and (max-width: 550px) {
-    
+    #header, #header-bg {
+        font-size: 8px; /* instead of 10 */
+    }
     /* switch to vertical navigation */
     #navigation {
         height: auto;
@@ -326,10 +330,5 @@ div.wiki-class-main-right h2 {
         padding-left: 20px;
         display: block;
         width: auto;
-    }
-    
-    /* hide quote */
-    #quote {
-        display: none;
     }
 }
