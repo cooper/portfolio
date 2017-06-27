@@ -181,12 +181,16 @@ div.wiki-main {
 div.wiki-class-main-right {
     color: #00873B;
     float: right;
-    margin: 0 0 20px 20px;
+    margin-right: 10px;
     background-color: chartreuse;
     padding: 0 20px;
 }
 
 div.wiki-class-main-right h2 {
+    margin: 20px 0;
+}
+
+.wiki-main .wiki-class-social-buttons {
     margin: 20px 0;
 }
 
