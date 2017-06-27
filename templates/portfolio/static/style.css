@@ -241,6 +241,13 @@ div.wiki-class-main-right h4 span {
     #picture {
         max-height: 70%;
     }
+    
+    /* fix social buttons */
+    div.wiki-class-main-right {
+        order: 3;
+        margin: 20px 0 0 0;
+        text-align: center;
+    }
 }
 
 /* even smaller layout */
@@ -288,13 +295,6 @@ div.wiki-class-main-right h4 span {
     div.wiki-image-right, div.wiki-imagebox-right {
         float: none;
         order: 2;
-    }
-    
-    /* fix social buttons */
-    div.wiki-class-main-right {
-        order: 3;
-        margin: 20px 0 0 0;
-        text-align: center;
     }
 }
 
