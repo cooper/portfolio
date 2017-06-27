@@ -293,7 +293,7 @@ div.wiki-class-main-right h4 span {
     /* fix social buttons */
     div.wiki-class-main-right {
         order: 3;
-        margin-left: 0;
+        margin-left: 20px 0 0 0;
         text-align: center;
     }
 }
