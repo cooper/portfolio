@@ -179,10 +179,11 @@ div.wiki-main {
 }
 
 div.wiki-class-main-right {
+    color: #00873B;
     float: right;
-    width: 600px;
     margin: 0 0 20px 20px;
-    /*min-height: 700px;*/
+    background-color: chartreuse;
+    padding: 20px;
 }
 
 div.wiki-class-main-right h2 span,
@@ -203,6 +204,10 @@ div.wiki-class-main-right h4 span {
     border-radius: 100%;
     font-size: 25px;
     color: #fff;
+}
+
+.wiki-main .wiki-class-social-buttons a:last-child {
+    margin: 0;
 }
 
 .wiki-main .wiki-class-social-buttons a:hover {
@@ -283,6 +288,13 @@ div.wiki-class-main-right h4 span {
     div.wiki-image-right, div.wiki-imagebox-right {
         float: none;
         order: 2;
+    }
+    
+    /* fix social buttons */
+    div.wiki-class-main-right {
+        order: 3;
+        margin-left: 0;
+        text-align: center;
     }
 }
 
