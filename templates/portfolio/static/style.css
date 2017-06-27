@@ -180,8 +180,35 @@ div.wiki-main {
 
 div.wiki-class-main-right {
     float: right;
-    width: 700px;
+    width: 600px;
+    margin: 0 0 20px 20px;
     /*min-height: 700px;*/
+}
+
+div.wiki-class-main-right h2 span,
+div.wiki-class-main-right h3 span,
+div.wiki-class-main-right h4 span {
+    display: block;
+}
+
+li.social-button {
+    display: inline-block;
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #00873B;
+    border-radius: 100%;
+    font-size: 40px;
+}
+
+li.social-button a {
+    color: #fff;
+}
+
+li.social-button a:hover {
+    color: chartreuse;
 }
 
 @media screen and (max-width: 1220px) {

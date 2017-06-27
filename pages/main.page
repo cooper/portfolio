@@ -9,8 +9,13 @@ sec.main-right {
     Paragraph 1
     
     $section_title { title: Stalk me; }
-    Paragraph 2
-    
+    html { <ul id="social-buttons"> }
+        $social_button { icon: github-alt;  link: https://github.com/cooper; }
+        $social_button { icon: linkedin;    link: https://www.linkedin.com/in/mitchell-c-a52a7598; }
+        $social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
+        $social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
+        $social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
+    html { </ul> }
 }
 
 sec {
