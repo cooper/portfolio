@@ -191,7 +191,11 @@ div.wiki-class-main-right h4 span {
     display: block;
 }
 
-li.social-button {
+ul.social-buttons {
+    list-style-type: none;
+}
+
+ul.social-buttons li {
     display: inline-block;
     margin-right: 20px;
     width: 50px;
@@ -203,11 +207,11 @@ li.social-button {
     font-size: 40px;
 }
 
-li.social-button a {
+ul.social-buttons li a {
     color: #fff;
 }
 
-li.social-button a:hover {
+ul.social-buttons li a:hover {
     color: chartreuse;
 }
 
