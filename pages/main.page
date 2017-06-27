@@ -3,23 +3,21 @@
 @page.created:  0;
 -@page.enable.title;
 
+sec.main-right {
+    html { <h2>Let's bring your idea to life</h2> }
+    sec.social-buttons {
+        $social_button { icon: envelope;    link: mailto:mitchell@rlygd.net; }
+        $social_button { icon: github-alt;  link: https://github.com/cooper; }
+        $social_button { icon: linkedin;    link: https://www.linkedin.com/in/mitchell-c-a52a7598; }
+        $social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
+        $social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
+        $social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
+    }
+}
+
 sec {
-    style [paragraph] {
-        overflow: hidden;
-    }
-
-    sec.main-right {
-        html { <h2>Let's bring your idea to life</h2> }
-        sec.social-buttons {
-            $social_button { icon: envelope;    link: mailto:mitchell@rlygd.net; }
-            $social_button { icon: github-alt;  link: https://github.com/cooper; }
-            $social_button { icon: linkedin;    link: https://www.linkedin.com/in/mitchell-c-a52a7598; }
-            $social_button { icon: twitter;     link: https://twitter.com/mitchellscooper; }
-            $social_button { icon: facebook;    link: https://facebook.com/mitchell.s.cooper; }
-            $social_button { icon: instagram;   link: https://instagram.com/mitchellscooper; }
-        }
-    }
-
+    style { overflow: hidden; }
+    
     p {
         style { font-size: 1.8em; }
         Hi, I'm Mitch.
