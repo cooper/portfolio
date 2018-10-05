@@ -14,7 +14,7 @@ sec.main-right {
 sec {
 
     /* this keeps the text from wrapping beneath the social buttons */
-    style { overflow: hidden; }
+    /* style { overflow: hidden; } */
     
     p {
         style { font-size: 1.8em; }
