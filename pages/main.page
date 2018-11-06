@@ -2,7 +2,6 @@
 @page.author:   Mitchell Cooper;
 @page.created:  0;
 
-@page.draft;
 -@page.enable.title;
 
 sec.main-right {
@@ -22,6 +21,9 @@ sec {
     
     I'm an award-winning Las Vegas Valley web and mobile app developer with a
     focus in education.
+
+
+    Here's a little about my background and where I'm at today.
     
     Technology has been my primary interest for as long as I can remember. It
     started at a young age with the disassembly, examination, and attempted
@@ -41,13 +43,17 @@ sec {
     businesses and civic organizations.
 
     In high school, the same aforementioned friends and family continued to
-    support me as I ventured across the country to compete in mobile app
-    development competitions in which I ended up placing second nationally two
-    years in a row and enjoyed local news stardom.
+    offer their support as I ventured across the country to compete in mobile
+    app development competitions in which I ended up placing second nationally
+    two years in a row and enjoyed stardom in local news.
 
     Since then, while working directly with students and faculty as a K12
     district technology assistant, I've discovered a newfound love for the role
-    of technology in education. 
-    
+    of technology in education.
 
+    I am currently doing off-site software development for K12 schools. Namely,
+    my recent projects include custom student and faculty information systems
+    solutions that integrate total account sychronization across the many
+    cloud and e-curricula services in demand of the modern school district.
+ 
 }
