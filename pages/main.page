@@ -20,7 +20,7 @@ sec {
     }
     
     p {
-        style { font-size: 1.2em; margin-bottom: 10px; }
+        style { font-size: 1.2em; margin-bottom: 20px; }
 
         I'm an award-winning Las Vegas Valley [[ ~web ]] and
         [[ mobile app | ~ios ]] developer with a focus in [[ ~education ]].
