@@ -3,6 +3,14 @@
 @page.created:  1;
 -@page.enable.title;
 
+
+p {
+    I would be thrilled to work with you on your next project, whether it be
+    a simple website like this one or a sophisticated million-dollar app idea.
+    You'll find on this site an assortment of my current and past works,
+    each demonstrating my diverse skillset.
+}
+
 p {
     style { font-size: 1.8em; }
     Let's bring your idea to life.
