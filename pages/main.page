@@ -18,8 +18,9 @@ sec {
         Hi, I'm Mitch.
     }
     
-    I'm a freelance web and mobile app developer.
+    I'm a [[ ~web ]] and [[ mobile app | ~ios ]] developer.
     
+
     For years I've been privileged to offer computer support and repair services
     to the Greater Lafayette, Indiana area; but more recently my time has been
     allocated primarily to freelance and hobby software development.
