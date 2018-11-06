@@ -3,7 +3,7 @@
 @page.created:  899;
 -@page.enable.title;
 
-@link: [[ https://github.com/cooper/lunch-menu-manager ]];
+@link: https://github.com/cooper/lunch-menu-manager;
 
 @category.project;
 @category.web;
