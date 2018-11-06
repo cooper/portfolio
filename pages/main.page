@@ -4,7 +4,7 @@
 
 -@page.enable.title;
 
-sec.main-right {
+sec.main-right { 
     $section_title { title: Check out my work; }
     $work {}
 
