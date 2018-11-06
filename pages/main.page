@@ -15,13 +15,17 @@ sec.main-right {
 sec {
     
     p {
-        style { font-size: 1.8em; }
+        style { font-size: 2em; }
         Hi, I'm Mitch.
     }
     
-    I'm an award-winning Las Vegas Valley [[ ~web ]] and [[ mobile app | ~ios ]]
-    developer with a focus in [[ ~education ]].
+    p {
+        style { font-size: 1.5em; }
 
+        I'm an award-winning Las Vegas Valley [[ ~web ]] and
+        [[ mobile app | ~ios ]] developer with a focus in [[ ~education ]].
+
+    }
 
     Here's a little about my background and where I'm at today.
     
