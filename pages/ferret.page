@@ -37,6 +37,10 @@ sec {
     Both the Ferret compiler and runtime are written in Perl currently, but I'm
     in the process of porting the runtime to Go. Eventually the Perl compiler
     will generate bytecode which runs in a Go interpreter.
+
+
+    $green_button { icon: Web; text: Website; }
+    $green_button { icon: GitHub; text: Code; }
 }
 
 clear {}
