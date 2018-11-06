@@ -1,6 +1,8 @@
 @page.title:    Mitchell Cooper;
 @page.author:   Mitchell Cooper;
 @page.created:  0;
+
+@page.draft;
 -@page.enable.title;
 
 sec.main-right {
@@ -18,7 +20,8 @@ sec {
         Hi, I'm Mitch.
     }
     
-    I'm a Las Vegas Valley web and mobile app developer with a focus in education.
+    I'm a Las Vegas Valley web and mobile app developer with a focus in
+    education.
     
     Technology has been my primary interest for as long as I can remember.
     For years I was privileged to offer computer support and repair services,
