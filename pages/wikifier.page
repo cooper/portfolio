@@ -34,7 +34,8 @@ sec {
     (and in my opinion, to write) than most.
     
     Over the years, wikifier has evolved from a simple script into a complete
-    modular wiki suite and CMS powering this website and many others.
+    modular wiki suite and CMS powering
+    [[ this website | http://source.mitchellcooper.me ]] and many others.
 }
 
 clear {}
