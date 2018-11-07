@@ -39,8 +39,8 @@ sec {
     will generate bytecode which runs in a Go interpreter.
 
 
-    $green_button { icon: Web; text: Website; }
-    $green_button { icon: GitHub; text: Code; }
+    $green_button { icon: globe;  text: Website; link: http://ferret.notroll.net; }
+    $green_button { icon: github; text: Code;    link: https://github.com/cooper/ferret; }
 }
 
 clear {}
