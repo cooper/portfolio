@@ -37,8 +37,7 @@ sec {
     
     A very-high-level language, both its compiler and runtime
     are written in Perl, but I'm in the process of porting the runtime to Go.
-    Eventually the Perl compiler will generate bytecode which runs in a Go
-    interpreter.
+    Eventually the Perl compiler will generate Go interpreter bytecode.
 
 
     $green_button   { icon: globe;  text: Website; link: http://ferret.notroll.net; }
