@@ -27,6 +27,8 @@ sec {
     In Spring 2015, I submitted the code for FeedReader and presented it to a
     group of judges for a Mobile Applications competition. I then ventured to
     Anaheim, CA to receive my award of second place at the national level.
+
+    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/feedreader; }
 }
 
 clear {}
