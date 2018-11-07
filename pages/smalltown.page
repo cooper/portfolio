@@ -30,6 +30,9 @@ sec {
     
     The example here is filled with content about my home community,
     Chalmers, Indiana.
+
+    $green_button { icon: hand-pointer; text: Demo; link: http://smalltown.rlygd.net; }
+
 }
 
 clear {}
