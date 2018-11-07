@@ -37,7 +37,7 @@ sec {
 
 
     $green_button { icon: hand-pointer; text: Try it out; link: http://lmm.rlygd.net; }
-    $green_button { icon: github; text: Code; link: https://github.com/cooper/lunch-menu-manager; }
+    $green_button { icon: github; text: Code; link: https://github.com/cooper/lunch-menu-manager; brand: b; }
 }
 
 clear {}
