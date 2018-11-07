@@ -36,7 +36,7 @@ sec {
     production at multiple schools now.
 
 
-    $green_button { icon: bullseye-pointer; text: Try it out; link: http://lmm.rlygd.net; }
+    $green_button { icon: hand-pointer; text: Try it out; link: http://lmm.rlygd.net; }
     $green_button { icon: github; text: Code; link: https://github.com/cooper/lunch-menu-manager; }
 }
 
