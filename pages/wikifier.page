@@ -36,52 +36,6 @@ sec {
     Over the years, wikifier has evolved from a simple script into a complete
     modular wiki suite and CMS powering
     [[ this website | http://source.mitchellcooper.me ]] and many others.
-
-
-@page.title:    LMM;
-@page.author:   Mitchell Cooper;
-@page.created:  899;
--@page.enable.title;
-
-@link: https://github.com/cooper/lunch-menu-manager;
-
-@category.project;
-@category.web;
-@category.education;
-
-image {
-    float:  right;
-    file:   lmm.png;
-    width:  500px;
-    link:   [@link];
-}
-
-sec {
-    $section_title {
-        title:  [@page.title];
-        link:   [@link];
-    }
-
-    [b]L[/b]unch [b]M[/b]enu [b]M[/b]anger is a centralized solution for
-    maintaining and distributing cafeteria menus. It is written in PHP and
-    stores data with SQLite, making it quite portable and fairly
-    simple to incorporate into any facility's existing web services.
-
-    LMM turns a tedious, repetitive multi-step process into one which can be
-    completed weeks or months in advance in just one sitting. Input your menu
-    just [i]once[/i], and let LMM handle the logistics.
-    
-    I created this as a school improvement project while I was a technology
-    intern at my high school but then decided to open source it. LMM is in
-    production at multiple schools now.
-
-
-    $green_button   { icon: globe; text: Website; link: http://wikifier.notroll.net; }
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/wikifier; }
-}
-
-clear {}
-
 }
 
 clear {}
