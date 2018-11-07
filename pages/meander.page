@@ -27,8 +27,8 @@ sec {
     time.
     
     After having familiarized myself with OS X app development, Meander was my
-    first dive into iOS. Born in 2012, it is written in Objective-C and Swift
-    with the server-side backend in Perl.
+    first dive into iOS. It is written in Objective-C and Swift
+    with the server-side backend and statistics server in Perl.
 }
 
 clear {}
