@@ -37,8 +37,8 @@ sec {
     the ground up a couple times.
 
 
-    $green_button { icon: globe;  text: Website; link: http://juno.notroll.net; }
-    $green_button { icon: github; text: Code;    link: https://github.com/cooper/juno; }
+    $green_button   { icon: globe;  text: Website; link: http://juno.notroll.net; }
+    $green_button_b { icon: github; text: Code;    link: https://github.com/cooper/juno; }
 }
 
 clear {}
