@@ -34,6 +34,10 @@ sec {
     I created this as a school improvement project while I was a technology
     intern at my high school but then decided to open source it. LMM is in
     production at multiple schools now.
+
+
+    $green_button { icon: globe;  bullseye-pointer: Try it out; link: http://lmm.rlygd.net; }
+    $green_button { icon: github; text: Code; link: https://github.com/cooper/lunch-menu-manager; }
 }
 
 clear {}
