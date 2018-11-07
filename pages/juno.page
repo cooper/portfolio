@@ -35,6 +35,10 @@ sec {
     my hobby projects still under active development. It started as a fork of
     pIRCd and was my first project in Perl, but it has since been rewritten from
     the ground up a couple times.
+
+
+    $green_button { icon: globe;  text: Website; link: http://juno.notroll.net; }
+    $green_button { icon: github; text: Code;    link: https://github.com/cooper/juno; }
 }
 
 clear {}
