@@ -10,7 +10,7 @@ sec.main-right {
 
     $section_title { title: Stalk me; }
     $stalk {}
-}
+} 
 
 sec {
     
