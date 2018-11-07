@@ -7,7 +7,7 @@
 
 @category.project;
 @category.hobby;
-
+ 
 image {
     float:  right;
     file:   ferret.png;
