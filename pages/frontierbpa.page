@@ -33,6 +33,9 @@ sec {
     The wikifier-based site features a daily activity journal, member
     biographies, competitive event rules and results, a photo gallery, a
     calendar, and more.
+
+
+    $green_button { icon: hand-pointer; text: Demo; link: http://frontierbpa.rlygd.net; }
 }
 
 clear {}
