@@ -35,6 +35,9 @@ sec {
     It originally was written in node.js and Perl, only supporting Mac OS 8/9/X
     for my Power Mac collection. But I later rewrote it in Go and added support
     for Windows and UNIX-like operating systems.
+
+
+    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/screenmgr; }
 }
 
 clear {}
