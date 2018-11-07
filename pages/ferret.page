@@ -35,7 +35,7 @@ sec {
     probably not all that common to take the time to fabricate such a thing.
     Ferret is my actualization of exactly that.
     
-    It is a very-high-level language, as both the Ferret compiler and runtime
+    A very-high-level language, both its compiler and runtime
     are written in Perl, but I'm in the process of porting the runtime to Go.
     Eventually the Perl compiler will generate bytecode which runs in a Go
     interpreter.
