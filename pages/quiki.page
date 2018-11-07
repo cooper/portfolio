@@ -33,6 +33,51 @@ sec {
     existing web environment with a proxy.
     
     quiki powers this website and several others.
+
+
+@page.title:    adminifier;
+@page.author:   Mitchell Cooper;
+@page.created:  897;
+-@page.enable.title;
+
+@link: https://github.com/cooper/adminifier;
+
+@category.project;
+@category.web;
+
+image {
+    float:  right;
+    file:   adminifier.png;
+    width:  500px;
+    link:   [@link];
+}
+
+sec {
+    $section_title {
+        title:  [@page.title];
+        link:   [@link];
+    }
+
+    adminifier is an administrative web panel for wikifier.
+    
+    The whole point of wikifier is that it is file-based, meaning you can
+    edit the content easily from a simple text editor. This was fine at first
+    but became tedious once I expanded wikifier to be a full-blown CMS.
+    
+    Written in PHP, this administrative frontend is an independent project
+    which makes it easy to manage a wikifier-based website from the web browser.
+    It features a page editor with a large array of visual tools,
+    media uploader, revision viewer, site configuration editor, and more.
+    
+    adminifier does not provide a WYSIWYG editor but instead embraces the
+    minimalistic elegance of the wikifier markup language with a variety of
+    tools to simplify its writing.
+
+    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/quiki; }
+}
+
+clear {}
+
 }
 
 clear {}
