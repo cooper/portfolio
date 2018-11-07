@@ -31,6 +31,8 @@ sec {
     Mobile Applications competition in Indianapolis. After being awarded first
     place in the state, I went on to place second at the national level in
     Spring 2014.
+
+    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/weatherapp; }
 }
 
 clear {}
