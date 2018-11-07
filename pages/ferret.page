@@ -26,7 +26,7 @@ sec {
     By [i]evented[/i], I mean that all functions are implemented as events,
     each of which can have any number of responders and return values.
     By [i]objective[/i], I mean that all values in Ferret are objects.
-    By [i]hobby[/i], I mean that I know it will probably never be used by any
+    By [i]hobby[/i], I mean that I know it will never be used by any
     project to be taken seriously.
     
     I don't think it's uncommon for a programmer to visualize an idealist
