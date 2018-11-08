@@ -3,8 +3,6 @@
 @page.created:  798;
 -@page.enable.title;
 
-@link: http://juno.notroll.net;
-
 @category.project;
 @category.hobby;
 
@@ -12,13 +10,11 @@ image {
     float:  right;
     file:   juno.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
     
     Yes. It really is an IRC daemon. It's written in Perl.
