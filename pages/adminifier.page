@@ -10,6 +10,7 @@ image {
     float:  right;
     file:   adminifier.png;
     width:  500px;
+    link:   none;
 }
 
 sec {
