@@ -9,7 +9,7 @@
 @category.web;
 @category.website;
 
-image {
+image { 
     float:  right;
     file:   smalltown.png;
     width:  500px;
@@ -31,8 +31,7 @@ sec {
     The example here is filled with content about my home community,
     Chalmers, Indiana.
 
-    $green_button { icon: hand-pointer; text: Demo; link: http://smalltown.rlygd.net; }
-
+    $green_buttons { demo: http://smalltown.rlygd.net; }
 }
 
 clear {}
