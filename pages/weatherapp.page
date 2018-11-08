@@ -16,7 +16,7 @@ image {
 }
 
 sec {
-    $section_title { title: [@page.title]; link: [@link]; }
+    $section_title { title: [@page.title]; }
 
     We can predict it, but we can't control it. Until now.
 
