@@ -9,7 +9,7 @@
 @category.web;
 @category.website;
 
-image {
+image { 
     float:  right;
     file:   bpa.png;
     width:  500px;
@@ -34,8 +34,7 @@ sec {
     biographies, competitive event rules and results, a photo gallery, a
     calendar, and more.
 
-
-    $green_button { icon: hand-pointer; text: Demo; link: http://frontierbpa.rlygd.net; }
+    $green_buttons { demo: http://frontierbpa.rlygd.net; }
 }
 
 clear {}
