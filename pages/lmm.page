@@ -2,9 +2,7 @@
 @page.author:   Mitchell Cooper;
 @page.created:  899;
 -@page.enable.title;
-
-@link: https://github.com/cooper/lunch-menu-manager;
-
+ 
 @category.project;
 @category.web;
 @category.education;
@@ -13,13 +11,11 @@ image {
     float:  right;
     file:   lmm.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
 
     [b]L[/b]unch [b]M[/b]enu [b]M[/b]anger is a centralized solution for
@@ -35,9 +31,7 @@ sec {
     intern at my high school but then decided to open source it. LMM is in
     production at multiple schools now.
 
-
-    $green_button   { icon: hand-pointer; text: Demo; link: http://lmm.notroll.net; }
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/lunch-menu-manager; }
+    $green_buttons { demo: http://lmm.notroll.net; github: lunch-menu-manager; }
 }
 
 clear {}
