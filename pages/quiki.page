@@ -3,8 +3,6 @@
 @page.created:  896;
 -@page.enable.title;
 
-@link: gh: quiki;
-
 @category.project;
 @category.web;
 
@@ -12,7 +10,6 @@ image {
     float:  right;
     file:   quiki.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
