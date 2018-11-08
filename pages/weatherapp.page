@@ -6,13 +6,13 @@
 @category.project;
 @category.ios;
 
-@link: [[ gh: weatherapp ]];
+%link: [[ gh: weatherapp ]];
 
 image {
     float:  right;
     file:   weatherapp.png;
     width:  400px;
-    link:   [@link];
+    link:   [%link];
 }
 
 sec {
