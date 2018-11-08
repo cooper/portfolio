@@ -8,7 +8,7 @@
 @category.project;
 @category.hobby;
 
-image {
+image { 
     float:  right;
     file:   screenmgr.png;
     width:  500px;
@@ -36,8 +36,7 @@ sec {
     for my Power Mac collection. But I later rewrote it in Go and added support
     for Windows and UNIX-like operating systems.
 
-
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/screenmgr; }
+    $green_buttons { github: screenmgr; }
 }
 
 clear {}
