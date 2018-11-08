@@ -3,8 +3,6 @@
 @page.created:  597;
 -@page.enable.title;
 
-@link: http://frontierbpa.rlygd.net;
-
 @category.project;
 @category.web;
 @category.website;
@@ -13,13 +11,12 @@ image {
     float:  right;
     file:   bpa.png;
     width:  500px;
-    link:   [@link];
+    link:   none;
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
 
     Today's students. Tomorrow's business professionals.
