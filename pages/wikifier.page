@@ -3,8 +3,6 @@
 @page.created:  898;
 -@page.enable.title;
 
-@link: http://wikifier.notroll.net;
-
 @category.project;
 @category.web;
 
@@ -12,13 +10,11 @@ image {
     float:  right;
     file:   wikifier.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
 
     wikifier is a file-based wiki engine and CMS.
@@ -37,9 +33,7 @@ sec {
     modular wiki suite and CMS powering
     [[ this website | http://source.mitchellcooper.me ]] and many others.
 
-
-    $green_button   { icon: globe; text: Website; link: http://wikifier.notroll.net; }
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/wikifier; }
+    $green_buttons { website: http://wikifier.notroll.net; github: wikifier; }
 }
 
 clear {}
