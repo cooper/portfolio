@@ -1,24 +1,22 @@
-@page.title:    screenmgr;
-@page.author:   Mitchell Cooper;
-@page.created:  797;
+@page.title:      screenmgr;
+@page.author:     Mitchell Cooper;
+@page.created:    797;
+
+@category.hobby;
+@category.project;
+
 -@page.enable.title;
 
-@link: https://github.com/cooper/screenmgr;
-
-@category.project;
-@category.hobby;
 
 image { 
     float:  right;
     file:   screenmgr.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
 
     screenmgr is a tool for monitoring and managing a collection of computer
