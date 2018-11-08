@@ -8,7 +8,7 @@
 @category.project;
 @category.web;
 
-image {
+image { 
     float:  right;
     file:   quiki.png;
     width:  500px;
