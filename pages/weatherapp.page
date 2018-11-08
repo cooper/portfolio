@@ -6,17 +6,15 @@
 @category.project;
 @category.ios;
 
-%link: gh: weatherapp;
-
 image {
     float:  right;
     file:   weatherapp.png;
     width:  400px;
-    link:   [%link];
+    link:   gh: weatherapp;
 }
 
 sec {
-    $section_title { title: [@page.title]; link: [@link]; }
+    $section_title { title: [@page.title]; }
 
     We can predict it, but we can't control it. Until now.
 
