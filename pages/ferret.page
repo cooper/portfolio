@@ -10,6 +10,7 @@ image {
     float:  right;
     file:   ferret.png;
     width:  400px;
+    link:   none;
 }
 
 sec {
