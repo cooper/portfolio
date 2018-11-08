@@ -11,6 +11,7 @@ image {
     float:  right;
     file:   lmm.png;
     width:  500px;
+    link:   none;
 }
 
 sec {
