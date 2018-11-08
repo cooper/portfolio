@@ -3,8 +3,6 @@
 @page.created:  897;
 -@page.enable.title;
 
-@link: https://github.com/cooper/adminifier;
-
 @category.project;
 @category.web;
 
@@ -12,13 +10,11 @@ image {
     float:  right;
     file:   adminifier.png;
     width:  500px;
-    link:   [@link];
 }
 
 sec {
     $section_title {
         title:  [@page.title];
-        link:   [@link];
     }
 
     adminifier is an administrative web panel for wikifier.
@@ -36,9 +32,7 @@ sec {
     minimalistic elegance of the wikifier markup language with a variety of
     tools to simplify its writing.
 
-
-    $green_button   { icon: hand-pointer; text: Demo; link: http://admin.wikifier.notroll.net; }
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/adminifier; }
+    $green_buttons { demo: http://admin.wikifier.notroll.net; github: adminifier; }
 }
 
 clear {}
