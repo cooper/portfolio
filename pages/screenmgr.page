@@ -12,6 +12,7 @@ image {
     float:  right;
     file:   screenmgr.png;
     width:  500px;
+    link:   none;
 }
 
 sec {
