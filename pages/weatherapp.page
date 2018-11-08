@@ -6,7 +6,7 @@
 @category.project;
 @category.ios;
 
-@link: gh: weatherapp;
+@link: [[ gh: weatherapp ]];
 
 image {
     float:  right;
