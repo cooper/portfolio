@@ -8,7 +8,7 @@
 @category.project;
 @category.hobby;
 
-image {
+image { 
     float:  right;
     file:   juno.png;
     width:  500px;
@@ -36,9 +36,7 @@ sec {
     pIRCd and was my first project in Perl, but it has since been rewritten from
     the ground up a couple times.
 
-
-    $green_button   { icon: globe;  text: Website; link: http://juno.notroll.net; }
-    $green_button_b { icon: github; text: Code;    link: https://github.com/cooper/juno; }
+    $green_buttons { website: http://juno.notroll.net; github: juno; }
 }
 
 clear {}
