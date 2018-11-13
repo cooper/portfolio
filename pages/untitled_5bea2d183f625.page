@@ -4,6 +4,7 @@
 @page.created: 0;
 
 /* @category.education.main; */
+@category.education;
 
 -@page.enable.title;
 
