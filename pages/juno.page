@@ -4,7 +4,7 @@
 -@page.enable.title;
 
 @category.project;
-@category.hobby.main;
+@category.hobby;
 
 image { 
     float:  right;
