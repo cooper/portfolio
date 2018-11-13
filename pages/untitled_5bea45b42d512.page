@@ -1,4 +1,7 @@
-@page.title:      ;
+@page.title:      another page of a category;
 @page.created:    Tue, 13 Nov 2018 03:32:04 GMT;
 @page.author:     Mitchell Cooper;
-@page.draft;
+
+@category.blah;
+
+blah2
