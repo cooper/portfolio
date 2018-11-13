@@ -1,4 +1,9 @@
-@page.title:      ;
+@page.title:      Education;
 @page.created:    Tue, 13 Nov 2018 01:47:04 GMT;
 @page.author:     Mitchell Cooper;
-@page.draft;
+
+@category.education.main;
+
+sec {
+    More to come.
+}
