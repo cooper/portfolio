@@ -3,8 +3,7 @@
 @page.created:    Tue, 13 Nov 2018 01:47:04 GMT;
 @page.created: 0;
 
-/* @category.education.main; */
-@category.education;
+@category.education.main;
 
 -@page.enable.title;
 
