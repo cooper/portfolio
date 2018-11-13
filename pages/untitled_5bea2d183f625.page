@@ -2,6 +2,8 @@
 @page.created:    Tue, 13 Nov 2018 01:47:04 GMT;
 @page.author:     Mitchell Cooper;
 
+-@page.enable.title;
+
 @category.education.main;
 
 sec {
