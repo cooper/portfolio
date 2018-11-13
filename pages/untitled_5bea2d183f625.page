@@ -2,7 +2,7 @@
 @page.author:     Mitchell Cooper;
 @page.created:    890;
 
-@category.education.main;
+@category.education;
 
 -@page.enable.title;
 
