@@ -33,7 +33,7 @@ sec {
     intern at my high school but then decided to open source it. LMM is in
     production at multiple schools now.
 
-    $green_buttons { demo: http://lmm.notroll.net; github: lunch-menu-manager; }
+    $green_buttons { demo: https://lmm.demo.mitchellcooper.me; github: lunch-menu-manager; }
 }
 
 clear {}
