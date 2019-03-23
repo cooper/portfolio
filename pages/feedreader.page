@@ -29,8 +29,7 @@ sec {
     Anaheim, CA to receive my award of second place at the national level.
 
 
-    $green_button   { icon: images; text: Gallery; link: https://www.facebook.com/media/set/?set=a.10217156268888653&type=1&l=c4c4e6feea; }
-    $green_button_b { icon: github; text: Code; link: https://github.com/cooper/feedreader; }
+    $green_buttons { gallery: https://www.facebook.com/media/set/?set=a.10217156268888653&type=1&l=c4c4e6feea; github: feedreader; }
 }
 
 clear {}

@@ -1,5 +1,0 @@
-format {
-<a class="green-button" href="[%m.link]" target="_blank">
-    <i class="fab fa-[%m.icon]"></i> [%m.text]
-</a>
-}

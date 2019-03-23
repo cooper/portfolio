@@ -1,5 +1,0 @@
-format {
-<div class="green-button">
-    <i class="fa fa-[%m.icon]"></i> [%m.text]
-</div>
-}

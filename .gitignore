@@ -4,3 +4,4 @@
 private/*
 wiki_private.conf
 cache/*
+.well-known/

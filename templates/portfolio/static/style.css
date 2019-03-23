@@ -168,6 +168,16 @@ div.main-wrapper.alternate {
     color: white;
 }
 
+div.main-wrapper.alternate a.wiki-link-page,
+div.main-wrapper.alternate a.wiki-link-category,
+div.main-wrapper.alternate a.wiki-link-other {
+	color: chartreuse;
+}
+
+div.main-wrapper.alternate a:hover {
+	color: white;
+}
+
 div.wiki-main {
     padding: 30px 20px;
     max-width: 1200px;
@@ -223,6 +233,32 @@ div.wiki-class-main-right h2 {
     position: relative;
     bottom: 2px;
     left: 1px;
+}
+
+.wiki-main a.green-button {
+    display: inline-block;
+    padding: 0.5em 0.8em;
+    background-color: chartreuse;
+    color: #00873B;
+    font-size: 1em;
+    margin: .8em .5em .8em 0;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wiki-main a.green-button i.fa, .wiki-main a.green-button i.fab {
+    padding-right: 3px;
+}
+
+.wiki-main a.green-button:hover {
+	color: white;
+	background-color: #00873B;
+}
+
+
+div.main-wrapper.alternate a.green-button:hover {
+	background-color: white !important;
+	color: #00873B;
 }
 
 @media screen and (max-width: 1220px) {
@@ -330,5 +366,8 @@ div.wiki-class-main-right h2 {
         padding-left: 20px;
         display: block;
         width: auto;
+    }
+    .green-buttons {
+        text-align: center;
     }
 }
