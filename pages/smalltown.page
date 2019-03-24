@@ -29,7 +29,7 @@ sec {
     The example here is filled with content about my home community,
     Chalmers, Indiana.
 
-    $green_buttons { demo: http://smalltown.rlygd.net; }
+    $green_buttons { demo: https://smalltown.rlygd.net; }
 }
 
 clear {}
