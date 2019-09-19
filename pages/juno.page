@@ -33,7 +33,7 @@ sec {
     pIRCd and was my first project in Perl, but it has since been rewritten from
     the ground up a couple times.
 
-    $green_buttons { website: https://juno.notroll.net; github: juno; }
+    $green_buttons { website: https://juno.mitchellcooper.me; github: juno; }
 }
 
 clear {}
