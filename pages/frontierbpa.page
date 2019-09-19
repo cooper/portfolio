@@ -31,7 +31,7 @@ sec {
     biographies, competitive event rules and results, a photo gallery, a
     calendar, and more.
 
-    $green_buttons { demo: https://frontierbpa.rlygd.net; }
+    $green_buttons { demo: https://bpa.demo.mitchellcooper.me; }
 }
 
 clear {}
