@@ -33,7 +33,7 @@ sec {
     minimalistic elegance of the wikifier markup language with a variety of
     tools to simplify its writing.
 
-    $green_buttons { demo: https://admin.wikifier.notroll.net; github: adminifier; }
+    $green_buttons { demo: https://admin.wikifier.mitchellcooper.me; github: adminifier; }
 }
 
 clear {}
