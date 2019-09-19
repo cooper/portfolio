@@ -36,7 +36,7 @@ sec {
     are written in Perl, but I'm in the process of porting the runtime to Go.
     Eventually the Perl compiler will generate Go interpreter bytecode.
  
-    $green_buttons { website: https://ferret.notroll.net; github: ferret; }
+    $green_buttons { website: https://ferret.mitchellcooper.me; github: ferret; }
 }
 
 clear {}
