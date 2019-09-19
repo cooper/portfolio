@@ -28,7 +28,7 @@ sec {
     emphasizes past works but also features a work request/estimate inquiry
     form as well as a general contact form.
 
-    $green_buttons { demo: https://basicbodyandpaint.rlygd.net; }
+    $green_buttons { demo: https://basic-demo.mitchellcooper.me; }
 }
 
 clear {}
