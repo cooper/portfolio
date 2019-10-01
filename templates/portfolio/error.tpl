@@ -1,6 +1,6 @@
 {{ template "header.tpl" . }}
 <div class="main-wrapper">
-    <div class="wiki-main">
+    <div class="q-main">
         {{.Message}}
     </div>
 </div>
