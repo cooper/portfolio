@@ -1,5 +1,6 @@
 *.old
 *.save
+*.log
 *~
 private/*
 wiki_private.conf
