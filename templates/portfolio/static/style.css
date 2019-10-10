@@ -48,12 +48,12 @@ h4 a,
 h2 a:hover,
 h3 a:hover,
 h4 a:hover,
-.wiki-main h2 a,
-.wiki-main h3 a,
-.wiki-main h4 a,
-.wiki-main h2 a:hover,
-.wiki-main h3 a:hover,
-.wiki-main h4 a:hover {
+.q-main h2 a,
+.q-main h3 a,
+.q-main h4 a,
+.q-main h2 a:hover,
+.q-main h3 a:hover,
+.q-main h4 a:hover {
     color: inherit;
 }
 
@@ -168,9 +168,9 @@ div.main-wrapper.alternate {
     color: white;
 }
 
-div.main-wrapper.alternate a.wiki-link-page,
-div.main-wrapper.alternate a.wiki-link-category,
-div.main-wrapper.alternate a.wiki-link-other {
+div.main-wrapper.alternate a.q-link-page,
+div.main-wrapper.alternate a.q-link-category,
+div.main-wrapper.alternate a.q-link-other {
 	color: chartreuse;
 }
 
@@ -178,17 +178,17 @@ div.main-wrapper.alternate a:hover {
 	color: white;
 }
 
-div.wiki-main {
+div.q-main {
     padding: 30px 20px;
     max-width: 1200px;
     margin: auto;
 }
 
-#content div.main-wrapper:first-child div.wiki-main {
+#content div.main-wrapper:first-child div.q-main {
     padding-top: 0;
 }
 
-div.wiki-class-main-right {
+div.qc-main-right {
     color: #00873B;
     float: right;
     margin: 0 0 20px 20px;
@@ -196,15 +196,15 @@ div.wiki-class-main-right {
     padding: 0 20px;
 }
 
-div.wiki-class-main-right h2 {
+div.qc-main-right h2 {
     margin: 20px 0;
 }
 
-.wiki-main .wiki-class-social-buttons {
+.q-main .qc-social-buttons {
     margin: 20px 0;
 }
 
-.wiki-main .wiki-class-social-buttons a {
+.q-main .qc-social-buttons a {
     display: inline-block;
     margin-right: 10px;
     width: 50px;
@@ -217,11 +217,11 @@ div.wiki-class-main-right h2 {
     color: #fff;
 }
 
-.wiki-main .wiki-class-social-buttons a:last-child {
+.q-main .qc-social-buttons a:last-child {
     margin-right: 0;
 }
 
-.wiki-main .wiki-class-social-buttons a:hover {
+.q-main .qc-social-buttons a:hover {
     color: chartreuse;
 }
 
@@ -235,7 +235,7 @@ div.wiki-class-main-right h2 {
     left: 1px;
 }
 
-.wiki-main a.green-button {
+.q-main a.green-button {
     display: inline-block;
     padding: 0.5em 0.8em;
     background-color: chartreuse;
@@ -246,11 +246,11 @@ div.wiki-class-main-right h2 {
     font-family: 'Montserrat', sans-serif;
 }
 
-.wiki-main a.green-button i.fa, .wiki-main a.green-button i.fab {
+.q-main a.green-button i.fa, .q-main a.green-button i.fab {
     padding-right: 3px;
 }
 
-.wiki-main a.green-button:hover {
+.q-main a.green-button:hover {
 	color: white;
 	background-color: #00873B;
 }
@@ -321,25 +321,25 @@ div.main-wrapper.alternate a.green-button:hover {
     }
     
     /* show images vertically with text instead of float */
-    div.wiki-main {
+    div.q-main {
         display: flex;
         flex-direction: column;
     }
-    div.wiki-image, div.wiki-imagebox {
+    div.q-image, div.q-imagebox {
         float: none !important;
         margin: 0 !important;
         text-align: center;
     }
-    div.wiki-image-left, div.wiki-imagebox-left {
+    div.q-image-left, div.q-imagebox-left {
         order: 1;
     }
-    div.wiki-image-right, div.wiki-imagebox-right {
+    div.q-image-right, div.q-imagebox-right {
         float: none;
         order: 2;
     }
     
     /* fix social buttons */
-    div.wiki-class-main-right {
+    div.qc-main-right {
         order: 3;
         margin: 20px 0 0 0;
         text-align: center;
