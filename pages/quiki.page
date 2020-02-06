@@ -8,7 +8,7 @@
 
 image { 
     float:  right;
-    file:   quiki.png;
+    file:   quiki-new.png;
     width:  500px;
     link:   none;
 }
@@ -18,20 +18,15 @@ sec {
         title:  [@page.title];
     }
 
-    quiki is a standalone web server for wikifier.
+    quiki is a file-based web content engine and standalone server featuring its own
+    productive markup source language, markdown support, image generation, categories,
+    templating, and git revision tracking.
+
+    Best of all, there are no databases and no dependencies. It can be installed with
+    [[ one command | https://quiki.app/get-started ]], and pages can be easily created
+    with either a plain text editor or the built-in web panel.
     
-    wikifier is a wiki engine, and it alone is not capable of serving
-    content directly to users. Instead, web servers must communicate with
-    wikifier via some sort of transport, usually utilizing PHP or some other
-    intermediate language to do so.
-    
-    quiki makes it easier to get a site up and running in just minutes,
-    eliminating the need for an intermediary. It can be incorporated into any
-    existing web environment with a proxy.
-    
-    quiki powers this website and several others.
- 
-    $green_buttons { github: quiki; }
+    $green_buttons { website: https://quiki.app; github: quiki; }
 }
 
 clear {}
