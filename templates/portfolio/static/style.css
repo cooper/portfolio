@@ -160,6 +160,7 @@ h4 a:hover,
 }
 
 div.main-wrapper {
+    clear: both;
     background-color: rgb(250, 250, 250);
 }
 
