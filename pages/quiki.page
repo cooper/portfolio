@@ -19,11 +19,11 @@ sec {
     }
 
     quiki is a file-based web content engine and standalone server featuring its own
-    productive [[ markup language | https://quiki.app/doc/language ]], Markdown support,
-    image generation, categories, templating, and git revision tracking.
+    super-legible and productive markup language, Markdown support,
+    image sizing, categories, templating, caching, and git revision tracking.
 
     Best of all, there are no databases and no dependencies. It can be effortlessly
-    installed with [[ a single command | https://quiki.app/get-started ]], and pages are
+    installed with a single command, and pages are
     easily created with either a plain text editor or the built-in web panel.
     
     $green_buttons { website: https://quiki.app; github: quiki; }
