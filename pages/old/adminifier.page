@@ -3,8 +3,8 @@
 @page.created:  897;
 -@page.enable.title;
 
-@category.project;
-@category.web;
+@category.old_project;
+@category.old_web;
 
 image {
     float:  right;

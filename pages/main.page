@@ -11,7 +11,7 @@ sec.main-right {
     $section_title { title: Stalk me; }
     $stalk {}
 } 
-
+ 
 sec {
     
     p {
@@ -24,42 +24,12 @@ sec {
 
         I'm an award-winning Las Vegas Valley [[ ~web ]] and
         [[ mobile app | ~ios ]] developer with a focus in education.
-        Here's a little about my background and where I'm at today.
     }
-
-    
-    Technology has been my primary interest for as long as I can remember. It
-    started at a young age with the disassembly, examination, and attempted
-    reconstruction of clock radios, telephone answering machines, and whichever
-    other gadgets were within my short reach; but I later graduated to
-    hand-me-down computers and discovered them to be far more intriguing.
-
-    After years of careful trial-and-error, I became self-taught
-    in hands-on computer work as well as a number of programming languages. I
-    was privileged to offer my skills to friends and family in my Indiana
-    hometown of 500 through computer repair and support services, a hobby which
-    quickly broadened beyond them by word of mouth.
-
-    As just a kid, I realized I would have to prove my ability by working in
-    advance and presenting finished products without ever having been asked to
-    produce anything. Before long, this landed me web design gigs for local
-    businesses and civic organizations.
-
-    In high school, the same aforementioned friends and family continued to
-    offer their support as I ventured across the country to compete in mobile
-    app development competitions in which I ended up placing second nationally
-    two years in a row and enjoyed stardom in local news.
-
-    Since then, while working directly with students and faculty as a K12
-    district technology assistant, I've discovered a newfound love for the power
-    of technology in education and the joy it brings to young (and old) faces.
-
-    I am currently providing off-site software development for K12
-    schools[---]namely, my recent projects include custom student and faculty
-    information systems solutions that integrate total account sychronization
-    across the many cloud and e-curricula services in demand of the modern
-    school district. I'm also working as a computer technician
-    at Clark County School District for a day job.
-
-    I hope to [[ hear | contact ]] from you!
 }
+
+$button {
+	text: My Story;
+	link: /about;
+	icon: book;
+}
+        

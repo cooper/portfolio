@@ -1,5 +1,5 @@
 sec.social-buttons   {
-    $social_button   { icon: envelope;    link: mailto:mitchell@rlygd.net; }
+    $social_button   { icon: envelope;    link: mailto:mitchell@mitchellcooper.me; }
     $social_button_b { icon: twitter;     link: https://twitter.com/mitchellscooper; }
     $social_button_b { icon: facebook;    link: https://facebook.com/mitchellscooper; }
     $social_button_b { icon: instagram;   link: https://instagram.com/mitchellscooper; }

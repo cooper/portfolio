@@ -4,9 +4,9 @@
 -@page.enable.title;
 
 
-@category.project;
-@category.web;
-@category.website;
+@category.old-project;
+@category.old-web;
+@category.old-website;
 
 image { 
     float:  right;

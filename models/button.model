@@ -1,0 +1,10 @@
+fmt{
+    <a class="green-button" href="[@m.link]">
+	if [@m.brand] {
+            <i class="fab fab-[@m.icon]"></i>
+        } else {
+            <i class="fa fa-[@m.icon]"></i>
+        }
+        [@m.text]
+    </a>
+}

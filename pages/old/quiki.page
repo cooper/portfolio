@@ -1,0 +1,37 @@
+@page.title:    quiki;
+@page.author:   Mitchell Cooper;
+@page.created:  896;
+-@page.enable.title;
+
+@category.old_project;
+@category.old_web;
+
+image { 
+    float:  right;
+    file:   quiki.png;
+    width:  500px;
+    link:   none;
+}
+
+sec {
+    $section_title {
+        title:  [@page.title];
+    }
+
+    quiki is a standalone web server for wikifier.
+    
+    wikifier is a wiki engine, and it alone is not capable of serving
+    content directly to users. Instead, web servers must communicate with
+    wikifier via some sort of transport, usually utilizing PHP or some other
+    intermediate language to do so.
+    
+    quiki makes it easier to get a site up and running in just minutes,
+    eliminating the need for an intermediary. It can be incorporated into any
+    existing web environment with a proxy.
+    
+    quiki powers this website and several others.
+ 
+    $green_buttons { github: quiki; }
+}
+
+clear {}

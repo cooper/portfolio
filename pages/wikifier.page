@@ -18,22 +18,16 @@ sec {
         title:  [@page.title];
     }
 
-    wikifier is a file-based wiki engine and CMS.
-    
-    It is unique in that it requires no database and can be managed
-    with a plain text editor. Yet, it offers image and page caching, image
-    sizing, session management, templates, categories, revision tracking, and
-    lots of other things.
-        
-    I created wikifier as a basic markup-to-HTML translator. I admired the wiki
-    concept but found existing markup languages such as MediaWiki
-    to be unappealing. The wikifier source language is much easier to look at
-    (and in my opinion, to write) than most.
-    
-    Over the years, wikifier has evolved from a simple script into a complete
-    modular wiki suite and CMS powering
-    [[ this website | http://source.mitchellcooper.me ]] and many others.
+    wikifier is a file-based wiki engine written in Perl.
+            
+    I created it as a basic markup-to-HTML translator, admiring the
+    wiki markup concept but finding existing languages such as MediaWiki
+    to be unappealing.
 
+    Over the years, wikifier evolved into a full-blown CMS backend that could
+    be incorporated into any existing web environment. Although it's been superseded by
+    [[ quiki ]], I'm still really proud of the wikifier concept and code base.
+    
     $green_buttons { website: https://wikifier.mitchellcooper.me; github: wikifier; }
 }
 

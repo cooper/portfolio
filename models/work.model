@@ -1,5 +1,4 @@
 sec.social-buttons {
     $social_button_b { icon: github-alt;  link: https://github.com/cooper; }
     $social_button_b { icon: linkedin;    link: https://www.linkedin.com/in/mitchell-c-a52a7598; }
-    $social_button   { icon: metacpan;    link: https://metacpan.org/author/COOPER; }
 }

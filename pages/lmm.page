@@ -29,10 +29,6 @@ sec {
     completed weeks or months in advance in just one sitting. Input your menu
     just [i]once[/i], and let LMM handle the logistics.
     
-    I created this as a school improvement project while I was a technology
-    intern at my high school but then decided to open source it. LMM is in
-    production at multiple schools now.
-
     $green_buttons { demo: https://lmm-demo.mitchellcooper.me; github: lunch-menu-manager; }
 }
 
