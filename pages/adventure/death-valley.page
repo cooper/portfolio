@@ -1,14 +1,14 @@
-@page.title:    Death Valley;
+@page.title:    Death Valley - Badwater Basin;
 @page.author:   Mitchell Cooper;
 @page.created:  799;
 -@page.enable.title;
 
-@category.adventure;
+/*@category.adventure;*/
 @category.hike;
 
-image {
+image.everyother {
     float:  right;
-    file:   death-valley.png;
+    file:   badwater-basin.jpeg; 
     width:  400px;
     link:   none;
 }
@@ -16,6 +16,9 @@ image {
 sec {
     $section_title { title: [@page.title]; }
 
+    The lowest point in North America at -282 feet.
+
+    $green_buttons { gallery: https://www.facebook.com/mitchellscooper/media_set?set=a.10220741470716458&type=3; }
 }
 
 clear {}
