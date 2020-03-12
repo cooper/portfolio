@@ -1,0 +1,32 @@
+@page.title:    adminifier;
+@page.author:   Mitchell Cooper;
+@page.created:  897;
+-@page.enable.title;
+
+@category.project;
+@category.web;
+
+image {
+    float:  right;
+    file:   adminifier.png;
+    width:  500px;
+    link:   none;
+}
+
+sec {
+    $section_title {
+        title:  [@page.title];
+    }
+
+    adminifier is an administrative web panel for [[quiki]] and [[wikifier]].
+    
+    Although the "whole point" of quiki is for sites to be simple enough to
+    manager in a plain-text editor, adminifier conveniently bridges that beloved
+    environment to the web browser. As such, it does not provide a WYSIWYG
+    editor but instead embraces the minimalistic elegance of the quiki markup
+    language with a variety of tools to simplify its writing.
+
+    $green_buttons { website: https://quiki.app/adminifier; github: quiki/tree/master/adminifier; }
+}
+
+clear {}

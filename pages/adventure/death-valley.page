@@ -1,0 +1,21 @@
+@page.title:    Death Valley;
+@page.author:   Mitchell Cooper;
+@page.created:  799;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+image {
+    float:  right;
+    file:   death-valley.png;
+    width:  400px;
+    link:   none;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+}
+
+clear {}

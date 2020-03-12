@@ -131,7 +131,7 @@ h4 a:hover,
 #navigation li {
     display: inline-block;
     float: left;
-    width: 25%;
+    width: 20%;
 }
 
 #navigation li a {
@@ -169,6 +169,7 @@ div.main-wrapper.alternate {
     color: white;
 }
 
+div.main-wrapper.alternate a.q-link-internal,
 div.main-wrapper.alternate a.q-link-page,
 div.main-wrapper.alternate a.q-link-category,
 div.main-wrapper.alternate a.q-link-other {
