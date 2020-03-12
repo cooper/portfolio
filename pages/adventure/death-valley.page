@@ -3,12 +3,12 @@
 @page.created:  799;
 -@page.enable.title;
 
-/*@category.adventure;*/
+@category.adventure;
 @category.hike;
 
 image.everyother {
     float:  right;
-    file:   badwater-basin.jpeg; 
+    file:   adventure/badwater-basin.jpeg; 
     width:  400px;
     link:   none;
 }
