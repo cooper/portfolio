@@ -129,7 +129,6 @@ h4 a:hover,
 }
 
 #navigation li {
-    display: inline-block;
     float: left;
     width: 20%;
 }
@@ -137,16 +136,14 @@ h4 a:hover,
 #navigation li a {
     height: 50px;
     line-height: 50px;
-    display: inline-block;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
     overflow: hidden;
     color: white;
     width: 100%;
+    float: left;
 }
-
-
 
 #navigation li a:hover {
     background: rgba(0, 0, 0, 0.2);
@@ -382,6 +379,7 @@ div.main-wrapper.alternate a.green-button:hover {
         padding-left: 20px;
         display: block;
         width: auto;
+        float: none;
     }
     .green-buttons {
         text-align: center;
