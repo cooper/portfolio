@@ -9,7 +9,7 @@
 sec {
     $section_title { title: [@page.title]; }
 
-    A hike up a mountain with a natural bridge at its summit.
+    A hike up a mountain with a natural bridge at its summit of 6,955 ft.
 
     $adventure_preview {
         gallery:    bridge-mountain;
