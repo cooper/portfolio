@@ -6,19 +6,10 @@
 @category.adventure;
 @category.hike;
 
-image.everyother {
-    float:  right;
-    file:   adventure/badwater-basin.jpeg; 
-    width:  400px;
-    link:   none;
-}
-
 sec {
     $section_title { title: [@page.title]; }
 
     The lowest point in North America at -282 feet.
-
-    $green_buttons { gallery: https://www.facebook.com/mitchellscooper/media_set?set=a.10220741470716458&type=3; }
 }
 
 clear {}
