@@ -1,0 +1,7 @@
+    fmt {
+        <img class="portfolio-gallery-preview" src="/image/adventure/[@m.gallery]/[@m.cover]" />
+    }
+    
+    $green_buttons {
+        gallery: /adventure/gallery/[@m.gallery];
+    }

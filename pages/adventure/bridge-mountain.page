@@ -11,5 +11,8 @@ sec {
 
     A hike up a mountain with a natural bridge at its summit.
 
-    $green_buttons { gallery: /adventure/gallery/bridge-mountain; }
+    $adventure_preview {
+        gallery:    bridge-mountain;
+        cover:      34.jpeg;
+    }
 }
