@@ -181,11 +181,6 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/bridge-mountain/35.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   adventure/bridge-mountain/36.jpeg;
             desc:   ;
             author: Mitchell Cooper;
