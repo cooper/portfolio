@@ -9,8 +9,8 @@
 sec {
     $section_title { title: [@page.title]; }
 
-    Climb up a landmark volcanic peak with black lava cliffs,
-    offering superior views of the Las Vegas Valley below from 5,092 ft.
+    Climb up a landmark volcanic peak with black lava cliffs and
+    superior views of the Las Vegas Valley from 5,092 ft.
 
     $adventure_preview {
         gallery:    black-mountain;

@@ -161,13 +161,28 @@ div.main-wrapper {
     background-color: rgb(250, 250, 250);
 }
 
+div.main-wrapper.alternate {
+    background-color: #00873B;
+    color: white;
+}
+
 div.main-wrapper.image-background {
     color: #ffff;
-    min-height: 600px;
+    min-height: 500px;
+    padding-top: 100px;
     background-position: center;
     background-size: cover;
     text-shadow: 1px 1px 4px #000;
     font-size: 1.5em;
+}
+
+div.main-wrapper.alternate.image-background {
+    text-align: right;
+}
+
+div.main-wrapper.image-background .q-p {
+    display: inline-block;
+    max-width: 60%;
 }
 
 div.main-wrapper.image-background .green-button {
@@ -175,10 +190,6 @@ div.main-wrapper.image-background .green-button {
     text-shadow: none;
 }
 
-div.main-wrapper.alternate {
-    background-color: #00873B;
-    color: white;
-}
 
 div.main-wrapper.alternate a.q-link-internal,
 div.main-wrapper.alternate a.q-link-page,
@@ -356,6 +367,12 @@ div.main-wrapper.alternate a.green-button:hover {
         order: 3;
         margin: 20px 0 0 0;
         text-align: center;
+    }
+
+    /* reset align of alternating gallery previews */
+    div.main-wrapper.image-background .q-p {
+        display: block;
+        max-width: none;
     }
 }
 
