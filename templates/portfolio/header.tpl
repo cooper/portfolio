@@ -19,6 +19,7 @@
 {{range .Scripts}}
     <script src="{{.}}"></script>
 {{end}}
+    <script src="{{.StaticRoot}}/portfolio.js"></script>
 </head>
 <body>
     <div id="header-bg"></div>
