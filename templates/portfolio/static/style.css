@@ -370,6 +370,9 @@ div.main-wrapper.alternate a.green-button:hover {
     }
 
     /* reset align of alternating gallery previews */
+    div.main-wrapper.image-background {
+        text-align: center;
+    }
     div.main-wrapper.image-background .q-p {
         display: block;
         max-width: none;
