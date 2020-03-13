@@ -1,22 +1,22 @@
 format {
 <div class="green-buttons">
 if [@m.demo] {
-    <a class="green-button" href="[%m.demo]" target="_blank">
+    <a class="green-button" href="[%m.demo]">
         <i class="fa fa-hand-pointer"></i> Demo
     </a>
 }
 if [@m.gallery] {
-    <a class="green-button" href="[%m.gallery]" target="_blank">
+    <a class="green-button" href="[%m.gallery]">
         <i class="fa fa-images"></i> Gallery
     </a>
 }
 if [@m.website] {
-    <a class="green-button" href="[%m.website]" target="_blank">
+    <a class="green-button" href="[%m.website]">
         <i class="fa fa-globe"></i> Website
     </a>
 }
 if [@m.github] {
-    <a class="green-button" href="https://github.com/cooper/[%m.github]" target="_blank">
+    <a class="green-button" href="https://github.com/cooper/[%m.github]">
         <i class="fab fa-github-alt"></i> Code
     </a>
 }

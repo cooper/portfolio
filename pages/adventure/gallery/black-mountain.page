@@ -3,8 +3,9 @@
 @page.created:  1580551200;
 -@page.enable.title;
 
-@category.adventure;
-@category.hike;
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
 
 sec {
     $section_title { title: [@page.title]; }
