@@ -17,11 +17,6 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/cathedral-rock/2.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   adventure/cathedral-rock/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
