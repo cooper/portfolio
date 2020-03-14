@@ -180,7 +180,7 @@ div.main-wrapper.image-background {
     background-size: cover;
     text-shadow: 1px 1px 4px #000;
     font-size: 1.5em;
-    border-bottom: 5px solid chartreuse;
+    border-top: 5px solid chartreuse;
 }
 
 div.main-wrapper.alternate.image-background {
