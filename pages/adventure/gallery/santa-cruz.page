@@ -77,7 +77,7 @@ sec {
 $button {
     text: More Adventures;
     link: /topic/adventure;
-    icon: photos;
+    icon: images;
 }
 
 clear{}
