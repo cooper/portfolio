@@ -14,6 +14,6 @@ sec {
 
     $adventure_preview {
         gallery:    cathedral-rock;
-        cover:      23.jpeg;
+        cover:      31.jpeg;
     }
 }

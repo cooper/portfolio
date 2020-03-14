@@ -1,0 +1,18 @@
+@page.title:    Hoover Dam;
+@page.author:   Mitchell Cooper;
+@page.created:  1534154400;
+-@page.enable.title;
+
+@category.adventure;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    "Engineering victory of the first order - another great achievement of
+    American resourcefulness, skill, and determination..."
+
+    $adventure_preview {
+        gallery:    hoover-dam;
+        cover:      6.jpeg;
+    }
+}

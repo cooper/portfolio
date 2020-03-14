@@ -1,0 +1,19 @@
+@page.title:    Owl Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  1554631200;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    One of my most frequent hikes through a narrow canyon by
+    Lake Mead where owls can be seen hiding in the canyon walls.
+
+    $adventure_preview {
+        gallery:    owl-canyon;
+        cover:      8.jpeg;
+    }
+}

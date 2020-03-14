@@ -1,0 +1,19 @@
+@page.title:    North Peak;
+@page.author:   Mitchell Cooper;
+@page.created:  1579946400;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    At 7,047 ft, North Peak is the second-highest at Red Rock Canyon National
+    Conversation Area.
+
+    $adventure_preview {
+        gallery:    north-peak;
+        cover:      21.jpeg;
+    }
+}

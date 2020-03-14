@@ -1,0 +1,18 @@
+@page.title:    San Francisco;
+@page.author:   Mitchell Cooper;
+@page.created:  ;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Touristy activities in and around San Francisco.
+
+    $adventure_preview {
+        gallery:    san-francisco;
+        cover:      24.jpeg;
+    }
+}

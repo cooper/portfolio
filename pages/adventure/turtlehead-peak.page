@@ -1,0 +1,18 @@
+@page.title:    Turtlehead Peak;
+@page.author:   Mitchell Cooper;
+@page.created:  1552816800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Peak with views of Red Rock Canyon and Las Vegas from 6,323 ft.
+
+    $adventure_preview {
+        gallery:    turtlehead-peak;
+        cover:      .jpeg;
+    }
+}

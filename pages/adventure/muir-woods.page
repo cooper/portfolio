@@ -1,0 +1,19 @@
+@page.title:    Muir Woods;
+@page.author:   Mitchell Cooper;
+@page.created:  1570269600;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Coastal redwood forest with trees over 250 ft tall
+    and 1,200 years old.
+
+    $adventure_preview {
+        gallery:    muir-woods;
+        cover:      .jpeg;
+    }
+}

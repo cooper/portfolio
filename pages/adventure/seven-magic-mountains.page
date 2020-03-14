@@ -1,0 +1,17 @@
+@page.title:    Seven Magic Mountains;
+@page.author:   Mitchell Cooper;
+@page.created:  1575972000;
+-@page.enable.title;
+
+@category.adventure;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Colored rocks. Seven towers of colored rocks.
+
+    $adventure_preview {
+        gallery:    seven-magic-mountains;
+        cover:      3.jpeg;
+    }
+}

@@ -1,0 +1,18 @@
+@page.title:    Seattle;
+@page.author:   Mitchell Cooper;
+@page.created:  1558864800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Touristy activites in and around the Emerald City.
+
+    $adventure_preview {
+        gallery:    seattle;
+        cover:      57.jpeg;
+    }
+}

@@ -1,0 +1,19 @@
+@page.title:    Alcatraz;
+@page.author:   Mitchell Cooper;
+@page.created:  1570356001;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Once a maximum security federal penitentiary.
+    Now a park.
+
+    $adventure_preview {
+        gallery:    alcatraz;
+        cover:      1.jpeg;
+    }
+}

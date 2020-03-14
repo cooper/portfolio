@@ -1,0 +1,18 @@
+@page.title:    Valley of Fire;
+@page.author:   Mitchell Cooper;
+@page.created:  1567418400;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    A geologic wonderland and Nevada's oldest state park.
+
+    $adventure_preview {
+        gallery:    valley-of-fire;
+        cover:      18.jpeg;
+    }
+}

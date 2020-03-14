@@ -1,0 +1,19 @@
+@page.title:    White Rock Mountain;
+@page.author:   Mitchell Cooper;
+@page.created:  1562752800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    One of my frequents, this 6-mile loop through Red Rock Canyon
+    offers drastically different landscapes from start to finish.
+
+    $adventure_preview {
+        gallery:    white-rock;
+        cover:      83.jpeg;
+    }
+}

@@ -1,0 +1,20 @@
+@page.title:    Snoqualmie Falls;
+@page.author:   Mitchell Cooper;
+@page.created:  1558864800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    A most serene sight.
+    Where prayers are carried up to the Creator by great
+    mists that rise from the powerful flow.
+
+    $adventure_preview {
+        gallery:    snoqualmie;
+        cover:      1.jpeg;
+    }
+}

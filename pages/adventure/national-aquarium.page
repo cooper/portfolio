@@ -1,0 +1,18 @@
+@page.title:    National Aquarium;
+@page.author:   Mitchell Cooper;
+@page.created:  1561024800;
+-@page.enable.title;
+
+@category.adventure;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Sharks, dophins, fishies, jellies.
+    You name it, the National Aquarium has it!
+
+    $adventure_preview {
+        gallery:    national-aquarium;
+        cover:      44.jpeg;
+    }
+}

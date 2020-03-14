@@ -1,0 +1,19 @@
+@page.title:    Pine Creek Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  1570960800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    My absolute favorite fall hike in the Las Vegas area, the one place you can
+    see some true color.
+
+    $adventure_preview {
+        gallery:    pine-creek-canyon;
+        cover:      15.jpeg;
+    }
+}

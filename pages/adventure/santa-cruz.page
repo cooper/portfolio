@@ -1,0 +1,18 @@
+@page.title:    Santa Cruz;
+@page.author:   Mitchell Cooper;
+@page.created:  1543053600;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Gorgeous beach and vocal California sea lions.
+
+    $adventure_preview {
+        gallery:    santa-cruz;
+        cover:      6.jpeg;
+    }
+}

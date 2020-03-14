@@ -1,0 +1,19 @@
+@page.title:    Spring Mountain Ranch;
+@page.author:   Mitchell Cooper;
+@page.created:  1559728800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    A Nevada state park oasis with a unique mix of desert and
+    woodland flora.
+
+    $adventure_preview {
+        gallery:    spring-mountain-ranch;
+        cover:      3.jpeg;
+    }
+}
