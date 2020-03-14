@@ -294,6 +294,14 @@ div.main-wrapper.alternate a.green-button:hover {
 	color: #008750;
 }
 
+body.blend {
+    background-color: chartreuse;
+}
+
+body.blend #footer {
+    display: none;
+}
+
 @media screen and (max-width: 1220px) {
     #navigation { margin-left: 20px; }
 }
