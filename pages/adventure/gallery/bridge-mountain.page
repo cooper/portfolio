@@ -1,6 +1,6 @@
-@page.title:    Bridge Mountain;
+@page.title:    bridge-mountain;
 @page.author:   Mitchell Cooper;
-@page.created:  1583575200;
+@page.created:  1580551200;
 -@page.enable.title;
 
 @category.gallery;
@@ -61,7 +61,7 @@ sec {
             desc:   ;
             author: Mitchell Cooper;
         };
-                image {
+        image {
             file:   adventure/bridge-mountain/11.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -111,7 +111,7 @@ sec {
             desc:   ;
             author: Mitchell Cooper;
         };
-                image {
+        image {
             file:   adventure/bridge-mountain/21.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -161,7 +161,7 @@ sec {
             desc:   ;
             author: Mitchell Cooper;
         };
-                image {
+        image {
             file:   adventure/bridge-mountain/31.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -206,7 +206,7 @@ sec {
             desc:   ;
             author: Mitchell Cooper;
         };
-                image {
+        image {
             file:   adventure/bridge-mountain/41.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -259,4 +259,10 @@ sec {
     }
 }
 
-clear {}
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: photos;
+}
+
+clear{}

@@ -8,7 +8,7 @@
 @category.gallery_hike;
 
 sec {
-     { title: [@page.title]; }
+    $section_title { title: [@page.title]; }
 
     gallery {
         image {
@@ -282,6 +282,12 @@ sec {
             author: Mitchell Cooper;
         };
     }
+}
+
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: photos;
 }
 
 clear{}

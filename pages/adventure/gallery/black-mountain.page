@@ -1,4 +1,4 @@
-@page.title:    Black Mountain;
+@page.title:    black-mountain;
 @page.author:   Mitchell Cooper;
 @page.created:  1580551200;
 -@page.enable.title;
@@ -13,84 +13,91 @@ sec {
     gallery {
         image {
             file:   adventure/black-mountain/1.jpeg;
-            desc:   View of Las Vegas on the way up;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/2.jpeg;
-            desc:   Las Vegas;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/3.jpeg;
-            desc:   Peculiar cactus;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/4.jpeg;
-            desc:   Oh look, there are more.;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/5.jpeg;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/6.jpeg;
-            desc:   City behind Joshua trees;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/7.jpeg;
-            desc:   Cacti;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/8.jpeg;
-            desc:   Getting closer...;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/9.jpeg;
-            desc:   I see the top!;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/10.jpeg;
-            desc:   Made it.;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/11.jpeg;
-            desc:   God Bless America;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/12.jpeg;
-            desc:   There was a fort at the top.;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/13.jpeg;
-            desc:   Black Mountain mark;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/14.jpeg;
-            desc:   View from Black Mountain;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/15.jpeg;
-            desc:   Pano from Black Mountain;
+            desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   adventure/black-mountain/16.jpeg;
-            desc:   The Guest book.;
+            desc:   ;
             author: Mitchell Cooper;
         };
     }
 }
 
-clear {}
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: photos;
+}
+
+clear{}

@@ -1,4 +1,4 @@
-@page.title:    snoqualmie;
+@page.title:    sugarloaf-mountain;
 @page.author:   Mitchell Cooper;
 @page.created:  1580551200;
 -@page.enable.title;
@@ -12,97 +12,107 @@ sec {
 
     gallery {
         image {
-            file:   adventure/snoqualmie/1.jpeg;
+            file:   adventure/sugarloaf-mountain/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/2.jpeg;
+            file:   adventure/sugarloaf-mountain/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/3.jpeg;
+            file:   adventure/sugarloaf-mountain/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/4.jpeg;
+            file:   adventure/sugarloaf-mountain/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/5.jpeg;
+            file:   adventure/sugarloaf-mountain/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/6.jpeg;
+            file:   adventure/sugarloaf-mountain/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/7.jpeg;
+            file:   adventure/sugarloaf-mountain/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/8.jpeg;
+            file:   adventure/sugarloaf-mountain/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/9.jpeg;
+            file:   adventure/sugarloaf-mountain/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/10.jpeg;
+            file:   adventure/sugarloaf-mountain/10.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/11.jpeg;
+            file:   adventure/sugarloaf-mountain/11.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/12.jpeg;
+            file:   adventure/sugarloaf-mountain/12.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/13.jpeg;
+            file:   adventure/sugarloaf-mountain/13.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/14.jpeg;
+            file:   adventure/sugarloaf-mountain/14.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/15.jpeg;
+            file:   adventure/sugarloaf-mountain/15.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/16.jpeg;
+            file:   adventure/sugarloaf-mountain/16.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/17.jpeg;
+            file:   adventure/sugarloaf-mountain/17.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/18.jpeg;
+            file:   adventure/sugarloaf-mountain/18.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/snoqualmie/19.jpeg;
+            file:   adventure/sugarloaf-mountain/19.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/sugarloaf-mountain/20.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/sugarloaf-mountain/21.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

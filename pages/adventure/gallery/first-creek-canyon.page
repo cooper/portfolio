@@ -1,4 +1,4 @@
-@page.title:    santa-cruz;
+@page.title:    first-creek-canyon;
 @page.author:   Mitchell Cooper;
 @page.created:  1580551200;
 -@page.enable.title;
@@ -12,62 +12,47 @@ sec {
 
     gallery {
         image {
-            file:   adventure/santa-cruz/1.jpeg;
+            file:   adventure/first-creek-canyon/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/2.jpeg;
+            file:   adventure/first-creek-canyon/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/3.jpeg;
+            file:   adventure/first-creek-canyon/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/4.jpeg;
+            file:   adventure/first-creek-canyon/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/5.jpeg;
+            file:   adventure/first-creek-canyon/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/6.jpeg;
+            file:   adventure/first-creek-canyon/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/7.jpeg;
+            file:   adventure/first-creek-canyon/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/8.jpeg;
+            file:   adventure/first-creek-canyon/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/santa-cruz/9.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   adventure/santa-cruz/10.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   adventure/santa-cruz/11.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   adventure/santa-cruz/12.jpeg;
+            file:   adventure/first-creek-canyon/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
