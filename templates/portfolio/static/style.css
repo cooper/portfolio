@@ -38,8 +38,12 @@ h2, h3, h4 {
 }
 
 h2 span, h3 span, h4 span {
-    border-bottom: 5px solid chartreuse;
     display: inline-block;
+    background: transparent;
+    border-radius: 20px;
+    height: 5px;
+    box-shadow: 0 55px 0 0 chartreuse;
+    font-family: sans-serif;
 }
 
 h2 a,
@@ -109,6 +113,7 @@ h4 a:hover,
     border: 20px solid chartreuse;
     height: 200px;
     max-height: 80%;
+    border-radius: 30px;
 }
 
 #navigation-container {
@@ -124,8 +129,10 @@ h4 a:hover,
     max-width: 900px;
     height: 50px;
     background-color: #00873B;
+    border-radius: 20px;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 #navigation li {
@@ -268,6 +275,7 @@ div.qc-main-right h2 {
     margin: .8em .5em .8em 0;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
+    border-radius: 20px;
 }
 
 .q-main a.green-button i.fa, .q-main a.green-button i.fab {
