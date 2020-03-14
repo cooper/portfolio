@@ -1,0 +1,19 @@
+@page.title:    Angels Landing;
+@page.author:   Mitchell Cooper;
+@page.created:  1559988000;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Steep cliff face at Zion National Park, easily one of the most beautiful
+    sights of my life thus far.
+
+    $adventure_preview {
+        gallery:    angels-landing;
+        cover:      7.jpeg;
+    }
+}

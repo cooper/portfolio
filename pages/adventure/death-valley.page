@@ -1,0 +1,19 @@
+@page.title:    Death Valley;
+@page.author:   Mitchell Cooper;
+@page.created:  1579428000;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Zabriskie Point, Natural Bridge, Golden Canyon, and Badwater Basin,
+    the lowest point in North America at -282 ft.
+
+    $adventure_preview {
+        gallery:    death-valley;
+        cover:      38.jpeg;
+    }
+}

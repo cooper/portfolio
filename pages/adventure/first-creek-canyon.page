@@ -1,0 +1,19 @@
+@page.title:    First Creek Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  1578823200;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Nice stroll around the Spring Mountain area that leads to
+    a tiny waterfall and water hole.
+
+    $adventure_preview {
+        gallery:    first-creek-canyon;
+        cover:      3.jpeg;
+    }
+}

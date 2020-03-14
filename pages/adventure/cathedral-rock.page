@@ -1,0 +1,19 @@
+@page.title:    Cathedral Rock;
+@page.author:   Mitchell Cooper;
+@page.created:  1565431200;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    A peak looking down on the Mt. Charleston village from
+    an elevation of 8,597 ft.
+
+    $adventure_preview {
+        gallery:    cathedral-rock;
+        cover:      23.jpeg;
+    }
+}

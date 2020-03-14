@@ -1,0 +1,19 @@
+@page.title:    Fletcher Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  1574589600;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Delightful adventure into a dark, snowy canyon at Mt. Charleston in the
+    Humboldt-Toiyabe National Forest.
+
+    $adventure_preview {
+        gallery:    fletcher-canyon;
+        cover:      24.jpeg;
+    }
+}

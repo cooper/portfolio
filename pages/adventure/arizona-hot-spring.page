@@ -1,0 +1,19 @@
+@page.title:    Arizona Hot Spring;
+@page.author:   Mitchell Cooper;
+@page.created:  1547373600;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Trek down into a strikingly beautiful narrow canyon in a volcanic area
+    with a hidden gem, 111 degree bliss flowing at 30 gallons per minute.
+
+    $adventure_preview {
+        gallery:    arizona-hot-spring;
+        cover:      28.jpeg;
+    }
+}

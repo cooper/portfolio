@@ -1,0 +1,19 @@
+@page.title:    Brown County;
+@page.author:   Mitchell Cooper;
+@page.created:  1571997600;
+-@page.enable.title;
+
+@category.adventure;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    A fall favorite in Indiana's most forested county at the convergence
+    of Hoosier National Forest, Yellowwood State Forest, and
+    Brown County State Park.
+
+    $adventure_preview {
+        gallery:    brown-county;
+        cover:      46.jpeg;
+    }
+}
