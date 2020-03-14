@@ -21,7 +21,7 @@
 {{end}}
     <script src="{{.StaticRoot}}/portfolio.js"></script>
 </head>
-<body>
+<body{{if eq .File "adventure.cat"}} class="blend"{{end}}>
     <div id="header-bg"></div>
     <div id="header">
         <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
