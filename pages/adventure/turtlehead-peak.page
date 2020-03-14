@@ -13,6 +13,6 @@ sec {
 
     $adventure_preview {
         gallery:    turtlehead-peak;
-        cover:      .jpeg;
+        cover:      12.jpeg;
     }
 }
