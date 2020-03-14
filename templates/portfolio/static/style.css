@@ -225,6 +225,7 @@ div.qc-main-right {
     margin: 0 0 20px 20px;
     background-color: chartreuse;
     padding: 0 20px;
+    border-radius: 15px;
 }
 
 div.qc-main-right h2 {
