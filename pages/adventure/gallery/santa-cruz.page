@@ -1,0 +1,77 @@
+@page.title:    santa-cruz;
+@page.author:   Mitchell Cooper;
+@page.created:  1580551200;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+     { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   adventure/santa-cruz/1.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/2.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/3.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/4.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/5.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/6.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/7.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/8.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/9.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/10.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/11.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/santa-cruz/12.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+clear{}

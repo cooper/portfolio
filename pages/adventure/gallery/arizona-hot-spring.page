@@ -1,0 +1,247 @@
+@page.title:    arizona-hot-spring;
+@page.author:   Mitchell Cooper;
+@page.created:  1580551200;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+     { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   adventure/arizona-hot-spring/1.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/2.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/3.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/4.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/5.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/6.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/7.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/8.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/9.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/10.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/11.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/12.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/13.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/14.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/15.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/16.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/17.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/18.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/19.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/20.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/21.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/22.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/23.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/24.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/25.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/26.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/27.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/28.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/29.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/30.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/31.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/32.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/33.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/34.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/35.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/36.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/37.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/38.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/39.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/40.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/41.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/42.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/43.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/44.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/45.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/arizona-hot-spring/46.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+clear{}

@@ -1,0 +1,342 @@
+@page.title:    seattle;
+@page.author:   Mitchell Cooper;
+@page.created:  1580551200;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+     { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   adventure/seattle/1.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/2.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/3.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/4.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/5.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/6.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/7.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/8.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/9.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/10.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/11.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/12.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/13.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/14.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/15.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/16.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/17.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/18.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/19.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/20.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/21.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/22.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/23.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/24.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/25.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/26.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/27.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/28.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/29.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/30.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/31.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/32.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/33.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/34.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/35.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/36.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/37.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/38.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/39.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/40.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/41.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/42.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/43.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/44.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/45.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/46.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/47.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/48.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/49.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/50.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/51.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/52.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/53.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/54.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/55.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/56.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/57.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/58.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/59.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/60.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/61.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/62.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/63.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/64.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/seattle/65.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+clear{}

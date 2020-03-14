@@ -1,0 +1,337 @@
+@page.title:    angels-landing;
+@page.author:   Mitchell Cooper;
+@page.created:  1580551200;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+     { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   adventure/angels-landing/1.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/2.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/3.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/4.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/5.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/6.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/7.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/8.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/9.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/10.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/11.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/12.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/13.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/14.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/15.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/16.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/17.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/18.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/19.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/20.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/21.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/22.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/23.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/24.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/25.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/26.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/27.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/28.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/29.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/30.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/31.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/32.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/33.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/34.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/35.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/36.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/37.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/38.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/39.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/40.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/41.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/42.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/43.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/44.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/45.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/46.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/47.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/48.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/49.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/50.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/51.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/52.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/53.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/54.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/55.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/56.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/57.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/58.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/59.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/60.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/61.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/62.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/63.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/angels-landing/64.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+clear{}

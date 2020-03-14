@@ -1,0 +1,472 @@
+@page.title:    san-francisco;
+@page.author:   Mitchell Cooper;
+@page.created:  1580551200;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+     { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   adventure/san-francisco/1.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/2.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/3.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/4.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/5.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/6.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/7.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/8.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/9.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/10.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/11.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/12.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/13.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/14.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/15.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/16.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/17.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/18.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/19.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/20.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/21.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/22.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/23.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/24.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/25.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/26.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/27.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/28.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/29.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/30.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/31.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/32.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/33.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/34.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/35.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/36.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/37.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/38.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/39.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/40.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/41.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/42.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/43.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/44.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/45.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/46.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/47.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/48.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/49.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/50.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/51.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/52.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/53.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/54.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/55.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/56.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/57.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/58.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/59.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/60.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/61.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/62.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/63.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/64.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/65.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/66.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/67.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/68.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/69.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/70.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/71.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/72.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/73.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/74.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/75.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/76.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/77.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/78.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/79.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/80.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/81.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/82.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/83.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/84.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/85.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/86.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/87.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/88.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/89.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/90.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   adventure/san-francisco/91.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+clear{}
