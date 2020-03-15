@@ -21,6 +21,7 @@ body {
 a {
     text-decoration: none;
     color: #0084FF;
+    transition: color 0.1s;
 }
 
 a:hover {
@@ -249,6 +250,7 @@ div.qc-main-right h2 {
     border-radius: 100%;
     font-size: 25px;
     color: #fff;
+    transition: color 0.2s;
 }
 
 .q-main .qc-social-buttons a:last-child {
