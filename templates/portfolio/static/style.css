@@ -147,7 +147,7 @@ h4 a:hover,
     text-transform: uppercase;
     text-align: center;
     overflow: hidden;
-    color: white;
+    color: #fff;
     width: 100%;
     float: left;
     background-color: inherit; /* for transition */
@@ -156,7 +156,7 @@ h4 a:hover,
 
 #navigation li a:hover {
     background: rgba(0, 0, 0, 0.2);
-    color: white;
+    color: #fff;
 }
 
 #footer {
@@ -172,7 +172,7 @@ div.main-wrapper {
 
 div.main-wrapper.alternate {
     background-color: #008750;
-    color: white;
+    color: #cbff96;
 }
 
 div.main-wrapper.image-background {
@@ -209,7 +209,7 @@ div.main-wrapper.alternate a.q-link-other {
 }
 
 div.main-wrapper.alternate a:hover {
-	color: white;
+	color: #fff;
 }
 
 div.q-main {
@@ -289,13 +289,13 @@ div.qc-main-right h2 {
 }
 
 .q-main a.green-button:hover {
-	color: white;
+	color: #fff;
 	background-color: #008750;
 }
 
 
 div.main-wrapper.alternate a.green-button:hover {
-	background-color: white !important;
+	background-color: #fff !important;
 	color: #008750;
 }
 
