@@ -149,6 +149,8 @@ h4 a:hover,
     color: white;
     width: 100%;
     float: left;
+    background-color: inherit; /* for transition */
+    transition: background-color 0.2s;
 }
 
 #navigation li a:hover {
@@ -277,6 +279,7 @@ div.qc-main-right h2 {
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     border-radius: 15px;
+    transition: background-color 0.2s, color 0.2s;
 }
 
 .q-main a.green-button i.fa, .q-main a.green-button i.fab {
