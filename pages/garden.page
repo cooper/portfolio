@@ -1,6 +1,6 @@
 @page.title:    Gardening;
 @page.author:   Mitchell Cooper;
-@page.created:  699;
+@page.created:  698;
 -@page.enable.title;
 
 @category.hobby;
@@ -14,20 +14,24 @@ image {
 
 sec {
     $section_title { title: [@page.title]; }
+    
+    Back in Indiana, I loved working outside in my garden. I've shed more
+    sweat there than anywhere else. In practice, I was never the world's best gardener;
+    yet, I was always in planning mode long before the last frost. I didn't do it to be
+    healthy or due to fear of GMOs... and [i]certainly[/i] not to save money (ha)!
+    I just found it enjoyable, and food tastes better when grown at home. I liked how
+    it politely boasted my hard work for anyone who strolled by, too.
 
-    You thought this was only about coding! No, this page is called "hobbies"
-    after all...
-    
-    I love working outside in my garden. I've spent more time and shed more
-    sweat in there than anywhere else. In practice, I am not the world's most
-    successful gardener. Yet, I am always planning my garden each year long
-    before the last frost. It's worth noting that I am not a health nut;
-    i.e., I do not garden because I am afraid of preservatives or GMOs.
-    Gardening certainly does not save me a significant amount of money either.
-    
-    I do it because I find it enjoyable, and the food tastes better when grown
-    at home. It also has social value as a means by which to impress my
-    neighbors and whoever else strolls by.
+    Growing up, my dad always had an immaculate vegetable garden, and my mom surrounded our house
+    with carefully nurtured flower beds. I miss it, but the weather is too harsh here
+    in the Mojave. Luckily, my love of plants is still 
+    fulfilled by my now extensive collection of cacti and succulents!
+
+    $button {
+        link: /garden-photos;
+        icon: seedling;
+        text: Garden gallery;
+    }
 }
 
 clear {}
