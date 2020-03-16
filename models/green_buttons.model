@@ -10,6 +10,11 @@ if [@m.gallery] {
         <i class="fa fa-images"></i> Gallery
     </a>
 }
+if [@m.screenshots] {
+    <a class="green-button" href="/screenshots/[%m.screenshots]">
+        <i class="fa fa-mobile"></i> Screenshots
+    </a>
+}
 if [@m.website] {
     <a class="green-button" href="[%m.website]">
         <i class="fa fa-globe"></i> Website

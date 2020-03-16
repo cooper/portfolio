@@ -32,7 +32,7 @@ sec {
     place in the state, I went on to place second at the national level.
 
 
-    $green_buttons { gallery: https://www.facebook.com/media/set/?set=a.10203410480772541&type=1&l=7cb54d1426; github: weatherapp; }
+    $green_buttons { screenshots: weatherapp; github: weatherapp; }
 }
 
 clear {}
