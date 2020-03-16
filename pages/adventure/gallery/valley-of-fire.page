@@ -352,7 +352,7 @@ sec {
 $button {
     text: More Adventures;
     link: /topic/adventure;
-    icon: images;
+    icon: hiking;
 }
 
 clear{}
