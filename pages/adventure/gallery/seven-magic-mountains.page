@@ -10,6 +10,13 @@
 sec {
     $section_title { title: [@page.title]; }
 
+    [b][i][u]Hello[/u][/i][/b]
+    
+    [Black]Hello[/]
+    
+    [[ What you want it to say | whatever ]]
+    
+
     gallery {
         image {
             file:   adventure/seven-magic-mountains/1.jpeg;
