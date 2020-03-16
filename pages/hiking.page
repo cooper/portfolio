@@ -1,0 +1,41 @@
+@page.title:    Hiking / Exploring;
+@page.author:   Mitchell Cooper;
+@page.created:  699;
+-@page.enable.title;
+
+@category.hobby;
+
+image {
+    float:      right;
+    file:       adventure/turtlehead-peak/12.jpeg;
+    width:      500px;
+    link:       none;
+}
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    You thought this was only about coding! No, this page is called "hobbies"
+    after all...
+
+    What drew me to the Las Vegas area was not the gambling or nightlife. It is so much
+    more than that. Many visit without ever knowing it is among the most sublime natural
+    areas in the country. And with sunny days all through the year, I take full advantage of
+    every opportunity to hike up mountains, hop rock to rock in canyon creeks,
+    and enjoy wildflowers and wildlife. I am drawn to all natural beauty.
+
+    My favorite local spots are Red Rock Canyon, Lake Mead, Mt. Charleston,
+    and the Valley of Fire. Very seldom does a week pass that I don't go to at least one.
+    Because there are so many amazing national parks within
+    drivable distance, I love to venture out of town as well.
+    
+    I've shared many of my adventures here for all to enjoy.
+    
+    $button {
+        link: /topic/adventure;
+        icon: images;
+        text: Explore my adventures;
+    }
+}
+
+clear {}
