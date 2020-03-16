@@ -12,7 +12,7 @@ if [@m.gallery] {
 }
 if [@m.screenshots] {
     <a class="green-button" href="/screenshots/[%m.screenshots]">
-        <i class="fa fa-mobile"></i> Screenshots
+        <i class="fa fa-mobile-alt"></i> Screenshots
     </a>
 }
 if [@m.website] {
