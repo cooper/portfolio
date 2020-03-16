@@ -28,7 +28,7 @@ sec {
     fulfilled by my now extensive collection of cacti and succulents!
 
     $button {
-        link: /garden-photos;
+        link: /garden-gallery;
         icon: seedling;
         text: Garden gallery;
     }
