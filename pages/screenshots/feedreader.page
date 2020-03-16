@@ -69,7 +69,7 @@ sec {
 }
 
 $button {
-    text: More iOS projects;
+    text: More mobile projects;
     link: /topic/ios;
     icon: mobile;
 }
