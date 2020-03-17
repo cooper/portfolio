@@ -18,19 +18,18 @@ sec {
 
     We can predict it, but we can't control it. Until now.
 
-    If you're like me, you almost never check your phone's weather app. On the
-    rare occurrence that I do such a thing, I'm probably already stranded on the
-    side of the road wondering why I allow myself to be so ill-prepared.
-    
-    WeatherApp warns you when it's going to rain. Hidden beneath its
-    minimalistic UI and stunning imagery, it offers more detailed
-    information than stock weather apps, including extensive forecasts and
+    If you're like me, you almost never check your weather app. On the
+    rare occurrence that I do, I'm probably already stranded on the side of
+    the road, wondering why I allow myself to be so ill-prepared.
+
+    WeatherApp warns you when a storm's brewing. Hidden beneath its
+    minimalistic UI and stunning imagery is more in-depth
+    information than your stock weather app, including extensive forecasts and
     historical weather data.
     
     I submitted the code and presented WeatherApp to a group of judges for a
-    Mobile Applications competition in Indianapolis. After being awarded first
-    place in the state, I went on to place second at the national level.
-
+    Mobile Applications competition in Indianapolis, placing first in Indiana
+    and second in the nation.
 
     $green_buttons { screenshots: weatherapp; github: weatherapp; }
 }

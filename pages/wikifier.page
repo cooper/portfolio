@@ -28,7 +28,7 @@ sec {
     be incorporated into any existing web environment. Although it's been superseded by
     [[ quiki ]], I'm still really proud of the wikifier concept and code base.
     
-    $green_buttons { website: https://wikifier.mitchellcooper.me; github: wikifier; }
+    $green_buttons { github: wikifier; }
 }
 
 clear {}
