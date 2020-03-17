@@ -1,5 +1,5 @@
     fmt {
-        <img class="portfolio-gallery-preview" src="/image/adventure/[@m.gallery]/[@m.cover]" />
+        <img class="portfolio-gallery-preview" src="/image/galleries/[@m.gallery]/[@m.cover]" />
     }
     
     $green_buttons {
