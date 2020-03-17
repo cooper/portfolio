@@ -12,82 +12,82 @@ sec {
 
     gallery {
         image {
-            file:   adventure/hoover-dam/1.jpeg;
+            file:   galleries/hoover-dam/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/2.jpeg;
+            file:   galleries/hoover-dam/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/3.jpeg;
+            file:   galleries/hoover-dam/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/4.jpeg;
+            file:   galleries/hoover-dam/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/5.jpeg;
+            file:   galleries/hoover-dam/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/6.jpeg;
+            file:   galleries/hoover-dam/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/7.jpeg;
+            file:   galleries/hoover-dam/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/8.jpeg;
+            file:   galleries/hoover-dam/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/9.jpeg;
+            file:   galleries/hoover-dam/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/10.jpeg;
+            file:   galleries/hoover-dam/10.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/11.jpeg;
+            file:   galleries/hoover-dam/11.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/12.jpeg;
+            file:   galleries/hoover-dam/12.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/13.jpeg;
+            file:   galleries/hoover-dam/13.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/14.jpeg;
+            file:   galleries/hoover-dam/14.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/15.jpeg;
+            file:   galleries/hoover-dam/15.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/hoover-dam/16.jpeg;
+            file:   galleries/hoover-dam/16.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

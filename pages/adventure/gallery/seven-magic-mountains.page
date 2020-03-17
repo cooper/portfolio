@@ -12,42 +12,42 @@ sec {
 
     gallery {
         image {
-            file:   adventure/seven-magic-mountains/1.jpeg;
+            file:   galleries/seven-magic-mountains/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/2.jpeg;
+            file:   galleries/seven-magic-mountains/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/3.jpeg;
+            file:   galleries/seven-magic-mountains/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/4.jpeg;
+            file:   galleries/seven-magic-mountains/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/5.jpeg;
+            file:   galleries/seven-magic-mountains/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/6.jpeg;
+            file:   galleries/seven-magic-mountains/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/7.jpeg;
+            file:   galleries/seven-magic-mountains/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/seven-magic-mountains/8.jpeg;
+            file:   galleries/seven-magic-mountains/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

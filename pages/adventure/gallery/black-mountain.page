@@ -12,82 +12,82 @@ sec {
 
     gallery {
         image {
-            file:   adventure/black-mountain/1.jpeg;
+            file:   galleries/black-mountain/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/2.jpeg;
+            file:   galleries/black-mountain/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/3.jpeg;
+            file:   galleries/black-mountain/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/4.jpeg;
+            file:   galleries/black-mountain/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/5.jpeg;
+            file:   galleries/black-mountain/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/6.jpeg;
+            file:   galleries/black-mountain/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/7.jpeg;
+            file:   galleries/black-mountain/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/8.jpeg;
+            file:   galleries/black-mountain/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/9.jpeg;
+            file:   galleries/black-mountain/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/10.jpeg;
+            file:   galleries/black-mountain/10.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/11.jpeg;
+            file:   galleries/black-mountain/11.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/12.jpeg;
+            file:   galleries/black-mountain/12.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/13.jpeg;
+            file:   galleries/black-mountain/13.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/14.jpeg;
+            file:   galleries/black-mountain/14.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/15.jpeg;
+            file:   galleries/black-mountain/15.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/black-mountain/16.jpeg;
+            file:   galleries/black-mountain/16.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

@@ -7,7 +7,7 @@
 
 image {
     float:      right;
-    file:       adventure/turtlehead-peak/12.jpeg;
+    file:       galleries/turtlehead-peak/12.jpeg;
     width:      500px;
     link:       none;
 }

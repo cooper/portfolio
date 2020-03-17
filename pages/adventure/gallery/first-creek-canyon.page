@@ -12,47 +12,47 @@ sec {
 
     gallery {
         image {
-            file:   adventure/first-creek-canyon/1.jpeg;
+            file:   galleries/first-creek-canyon/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/2.jpeg;
+            file:   galleries/first-creek-canyon/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/3.jpeg;
+            file:   galleries/first-creek-canyon/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/4.jpeg;
+            file:   galleries/first-creek-canyon/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/5.jpeg;
+            file:   galleries/first-creek-canyon/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/6.jpeg;
+            file:   galleries/first-creek-canyon/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/7.jpeg;
+            file:   galleries/first-creek-canyon/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/8.jpeg;
+            file:   galleries/first-creek-canyon/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/first-creek-canyon/9.jpeg;
+            file:   galleries/first-creek-canyon/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

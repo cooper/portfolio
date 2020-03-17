@@ -12,77 +12,77 @@ sec {
 
     gallery {
         image {
-            file:   adventure/turtlehead-peak/1.jpeg;
+            file:   galleries/turtlehead-peak/1.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/2.jpeg;
+            file:   galleries/turtlehead-peak/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/3.jpeg;
+            file:   galleries/turtlehead-peak/3.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/4.jpeg;
+            file:   galleries/turtlehead-peak/4.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/5.jpeg;
+            file:   galleries/turtlehead-peak/5.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/6.jpeg;
+            file:   galleries/turtlehead-peak/6.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/7.jpeg;
+            file:   galleries/turtlehead-peak/7.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/8.jpeg;
+            file:   galleries/turtlehead-peak/8.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/9.jpeg;
+            file:   galleries/turtlehead-peak/9.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/10.jpeg;
+            file:   galleries/turtlehead-peak/10.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/11.jpeg;
+            file:   galleries/turtlehead-peak/11.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/12.jpeg;
+            file:   galleries/turtlehead-peak/12.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/13.jpeg;
+            file:   galleries/turtlehead-peak/13.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/14.jpeg;
+            file:   galleries/turtlehead-peak/14.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
-            file:   adventure/turtlehead-peak/15.jpeg;
+            file:   galleries/turtlehead-peak/15.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
