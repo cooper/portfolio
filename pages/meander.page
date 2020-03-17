@@ -27,8 +27,9 @@ sec {
     time.
     
     After having familiarized myself with macOS app development, Meander was my
-    first dive into iOS. It is written in Objective-C and Swift
-    with the server-side backend and statistics server in Perl.
+    first dive into iOS with a server-side backend and statistics server.
+    
+    $green_buttons { screenshots: meander; }
 }
 
 clear {}

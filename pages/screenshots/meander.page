@@ -1,0 +1,47 @@
+@page.title:    meander;
+@page.author:   Mitchell Cooper;
+@page.created:  1584415989;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_screenshot;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   galleries/meander/1.jpg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/meander/2.jpg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/meander/3.jpg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/meander/4.jpg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/meander/5.jpg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+$button {
+    text: More mobile projects;
+    link: /topic/ios;
+    icon: mobile;
+}
+
+clear{}
