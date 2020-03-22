@@ -3,9 +3,15 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-    <meta name="description" content="Freelance web and mobile app developer. Let's bring your idea to life." />
-    <meta name="keywords" content="web development, web developer, app development, freelance, programming, coding, developer" />
-    <meta name="author" content="Mitchell Cooper">
+{{with .Description}}
+    <meta name="description" content="{{.}}" />
+{{end}}
+{{with .KeywordString}}
+    <meta name="keywords" content="{{.}}" />
+{{end}}
+{{with .Author}}
+    <meta name="author" content="{{.}}" />
+{{end}}
     <title>{{.VisibleTitle}}</title>
     <link rel="icon" type="image/png" href="{{.StaticRoot}}/favicon.png" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500%7COpen+Sans" />
@@ -13,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="{{.StaticRoot}}/style.css" />
     <link rel="stylesheet" type="text/css" href="/static/quiki.css" />
 {{with .PageCSS}}
-    <style type="text/css">
+    <style>
 {{.}}
     </style>
 {{end}}
