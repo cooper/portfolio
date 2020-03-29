@@ -1,0 +1,1 @@
+format { <a href="[@m.link]"><i class="fa fa-[@m.icon]"></i></a> }
