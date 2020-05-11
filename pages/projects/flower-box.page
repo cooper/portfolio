@@ -1,0 +1,105 @@
+@page.title:    Flower Box;
+@page.author:   Mitchell Cooper;
+@page.created:  1589216248;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_project;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   galleries/flower-box/1.jpeg;
+            desc:   My flower box was in a rather sorry state compared to when I built it a few years ago;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/2.jpeg;
+            desc:   It never was perfect since I'm not really good at this and I only used $1 tools,
+                    but it didn't look THIS bad...;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/3.jpeg;
+            desc:   The wood has gotten warped (Ignore the dying succulent in the background);
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/4.jpeg;
+            desc:   It has splits around the screws and there is a giant crack on the bottom;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/5.jpeg;
+            desc:   Took all the old nails out and fit it back together nicely. This time I screwed it
+                    together all around.;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/6.jpeg;
+            desc:   Filled the crack on the bottom;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/7.jpeg;
+            desc:   Filled the cracks;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/8.jpeg;
+            desc:   It's all one piece again;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/9.jpeg;
+            desc:   This was after giving it a good clean;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/10.jpeg;
+            desc:   Stained and varnished to protect it from weathering so quickly again;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/11.jpeg;
+            desc:   I bought these brackets at Lowes to hang it over our porch ledge, but the
+                    box is way too big for them, and so is our ledge. They were the only flower box
+                    brackets they had, so we had to compromise. It's supposed to cradle the box and
+                    hang over a fence like 2-3" thick, but instead we have it upside down, with the
+                    part that's supposed to be under the box over the ledge and the other part drilled
+                    into the bottom and back of the box. It was Brittany's idea. Had to get the power
+                    tools out for just this one part.;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/12.jpeg;
+            desc:   It fits!;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/13.jpeg;
+            desc:   Ta-da!;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/14.jpeg;
+            desc:   This is how it hangs on;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/flower-box/15.jpeg;
+            desc:   Best curbside appeal if you ask me!;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: images;
+}
+
+clear{}
