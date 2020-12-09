@@ -10,7 +10,7 @@
 
 image {
     float:  right;
-    file:   lmm.png;
+    file:   lmm2.png;
     width:  500px;
     link:   none;
 }
