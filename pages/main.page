@@ -27,8 +27,9 @@ sec {
         style { font-size: 1.2em; margin-bottom: 20px; }
 
         I'm an award-winning Las Vegas Valley [[ ~web ]] and
-        [[ mobile app | ~ios ]] developer with a focus in education.
+        [[ mobile app | ~ios ]] developer.
     }
+
     $button {
 		text: My Story;
 		link: /about;
