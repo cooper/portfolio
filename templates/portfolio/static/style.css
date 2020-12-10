@@ -311,19 +311,19 @@ body.blend #footer {
     #navigation { margin-left: 20px; }
 }
 
-/* horizontal bar on logo */
-@media screen and (min-width: 550px) {
-    #logo::after {
-        content: '';
-        width: 100%;
-        height: 5px;
-        display: block;
-        position: absolute;
-        top: 45%;
-        background-color: #008750;
-        z-index: -1;
+/* smaller text */
+@media screen and (max-width: 1000px) {
+    #header, #header-bg {
+        font-size: 14px;
     }
 }
+
+@media screen and (max-width: 900px) {
+    #header, #header-bg {
+        font-size: 13px;
+    }
+}
+
 
 /* smaller header */
 @media screen and (max-width: 860px) {
@@ -340,7 +340,7 @@ body.blend #footer {
 @media screen and (max-width: 800px) {
     #header, #header-bg {
         height: 160px !important;
-        font-size: 10px; /* instead of 12 */
+        font-size: 11px; /* instead of 16 */
     }
     
     /* full-width navigation */
@@ -404,9 +404,9 @@ body.blend #footer {
 }
 
 /* tiny layout */
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 580px) {
     #header, #header-bg {
-        font-size: 9px; /* instead of 10 */
+        font-size: 10px; /* instead of 10 */
     }
     /* switch to vertical navigation */
     #navigation {
@@ -429,3 +429,24 @@ body.blend #footer {
         text-align: center;
     }
 }
+
+/* horizontal bar on logo */
+@media screen and (min-width: 520px) {
+    #logo::after {
+        content: '';
+        width: 100%;
+        height: 5px;
+        display: block;
+        position: absolute;
+        top: 45%;
+        background-color: #008750;
+        z-index: -1;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #header, #header-bg {
+        font-size: 9px;
+    }
+}
+
