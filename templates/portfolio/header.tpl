@@ -31,7 +31,7 @@
 <body{{if eq .File "adventure.cat"}} class="blend"{{end}}>
     <div id="header-bg"></div>
     <div id="header">
-        <img id="picture" src="{{.StaticRoot}}/me.jpg" alt="me" />
+        <img id="picture" src="{{.StaticRoot}}/me2.jpg" alt="me" />
         <div id="logo">
             <a href="{{.WikiRoot}}/"><span>{{.WikiTitle}}</span></a>
         </div>
