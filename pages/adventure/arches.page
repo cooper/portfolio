@@ -14,6 +14,6 @@ sec {
 
     $adventure_preview {
         gallery:    arches;
-        cover:      IMG_1872.jpeg;
+        cover:      IMG_1866.jpeg;
     }
 }
