@@ -1,0 +1,133 @@
+@page.title:    Canyonlands;
+@page.author:   Mitchell Cooper;
+@page.created:  ;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   galleries/canyonlands/IMG_1564.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_1606.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_1937.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_1988.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2003.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2006.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2011.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2015.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2017.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2025.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2042.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2051.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2058.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2059.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2061.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2064.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2072.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2073.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2080.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2082.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2085.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/canyonlands/IMG_2087.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: images;
+}
+
+clear{}

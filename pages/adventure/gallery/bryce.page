@@ -1,0 +1,128 @@
+@page.title:    Bryce Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  ;
+-@page.enable.title;
+
+@category.gallery;
+@category.gallery_adventure;
+@category.gallery_hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    gallery {
+        image {
+            file:   galleries/bryce/IMG_3071.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3072.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3090.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3096.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3105.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3111.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3116.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3120.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3122.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3142.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3144.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3146.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3151.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3166.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3167.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3218.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3235.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3245.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3252.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3256.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+        image {
+            file:   galleries/bryce/IMG_3257.jpeg;
+            desc:   ;
+            author: Mitchell Cooper;
+        };
+    }
+}
+
+$button {
+    text: More Adventures;
+    link: /topic/adventure;
+    icon: images;
+}
+
+clear{}

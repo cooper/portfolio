@@ -1,0 +1,19 @@
+@page.title:    Bryce Canyon;
+@page.author:   Mitchell Cooper;
+@page.created:  1606456800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    The largest concentration of hoodoos and spires on Earth,
+    tinted crimson as a natural aesthetic bonus.
+
+    $adventure_preview {
+        gallery:    bryce;
+        cover:      IMG_3071.jpeg;
+    }
+}

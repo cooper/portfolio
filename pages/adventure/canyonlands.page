@@ -1,0 +1,18 @@
+@page.title:    Canyonlands;
+@page.author:   Mitchell Cooper;
+@page.created:  1610258400;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Panoramic views from the Island in the Sky.
+
+    $adventure_preview {
+        gallery:    canyonlands;
+        cover:      IMG_2085.jpeg;
+    }
+}

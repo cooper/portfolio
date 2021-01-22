@@ -1,0 +1,19 @@
+@page.title:    Saguaro;
+@page.author:   Mitchell Cooper;
+@page.created:  1609480800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Appropriately named for its preservation of nearly 2 million specimens
+    of America's favorite giant cactus.
+
+    $adventure_preview {
+        gallery:    saguaro;
+        cover:      IMG_0990.jpeg;
+    }
+}

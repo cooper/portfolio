@@ -1,0 +1,19 @@
+@page.title:    Arches;
+@page.author:   Mitchell Cooper;
+@page.created:  1610172000;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Featuring Delicate Arch, icon of the American West, and over 2,000 other national
+    sandstone arches.
+
+    $adventure_preview {
+        gallery:    arches;
+        cover:      IMG_1872.jpeg;
+    }
+}
