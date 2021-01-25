@@ -1,0 +1,19 @@
+@page.title:    Joshua Tree;
+@page.author:   Mitchell Cooper;
+@page.created:  1593064800;
+-@page.enable.title;
+
+@category.adventure;
+@category.hike;
+
+sec {
+    $section_title { title: [@page.title]; }
+
+    Preservation of the Joshua Tree which thrives at the convergence of the
+    harsh Mojave and Colorado deserts.
+
+    $adventure_preview {
+        gallery:    joshua-tree;
+        cover:      IMG_9330.jpeg;
+    }
+}
