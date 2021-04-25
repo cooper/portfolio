@@ -28,39 +28,37 @@ sec {
     produce anything. Before long, this landed me web design gigs for local
     businesses.
 
-    In high school, the same aforementioned friends and family continued to
-    offer their support as I ventured across the country to compete in mobile
-    app development competitions in which I ended up placing first in Indiana
+    Meanwhile, those same aforementioned friends and family continued to
+    offer their support as I ventured across the country to compete in
+    [[ mobile app development | ~ios ]]
+    competitions in which I ended up placing first in Indiana
     then second nationally two years in a row and enjoyed stardom in local news.
 
-    p.bigger {
-        Since then, while working directly with students and faculty at K12 schools,
-        I discovered a newfound love for the power of technology in education and
-        the joy it brings to young (and old) faces.
-    }
-
-    For two years, I had the privilege of working at
-    [[ Frontier School Corporation | https://frontierschoolsin.org ]]
-    as a software developer, network administrator, and technology
-    support technician. It is a small school district with an even tinier
+    Since then, I have worked primarily in K-12 school systems as a software
+    developer, network administrator, and technology support technician.
+    In Indiana, I had the privilege of working at
+    [[ Frontier School Corporation | https://frontierschoolsin.org ]],
+    a small school district with an even tinier
     technology team that does most everything in-house and without the help of
     specialists or contractors, which allowed me to dip my feet in all sorts of valuable
     experience and learn-by-doing; and for that, I am extremely grateful.
-
-    In July 2018, amidst the Mojave Desert's scorching summer heat, I
-    relocated to Las Vegas, Nevada and accepted a job as a computer technician
-    at the [[ Clark County School District | https://ccsd.net ]], one of the
-    largest in the nation. As you might imagine, it was quite an adjustment to
+    Then in July 2018, amidst the Mojave Desert's scorching summer heat, I
+    relocated to Las Vegas, Nevada and accepted a job at the
+    [[ Clark County School District | https://ccsd.net ]], one of the
+    largest in the nation. It was quite an adjustment to
     transition from a district of two schools and 650 students to one of more
-    than 350 schools and 320,000 students, but I have embraced the change.
+    than 350 schools and 320,000 students, but I embraced the change.
 
-    In addition to my day jobs and [[ hobbies | ~hobby ]] (and also to satisfy
-    my love of coding), I keep myself extra busy
-    with contracted side work. I am currently providing off-site software development for K12
-    schools[---]namely, my recent projects include custom student and faculty
-    [[ information systems solutions | sis ]] that integrate total account synchronization
-    across the many cloud and e-curricula services in demand of the modern
-    school district.
+    I love
+    the power of technology in action and the joy it brings to young (and old) faces. 
+    In addition to working directly with students and faculty, my coding projects in this
+    area include [[ cafeteria management software | lmm ]], custom software deployment suites,
+    and most notably, [[ student information systems solutions | sis ]] that integrate total
+    account synchronization across the many cloud and e-curricula services in demand of
+    the modern school district.
 
-    I hope to [[ hear | contact ]] from you!
+    Now I am ready for another new chapter as I move back east again this summer.
+    I have also kept myself extra busy with contracted side work and various
+    open source projects. I invite you to explore them on this site and hope to
+    [[ hear | contact ]] from you!
 }

@@ -26,7 +26,7 @@ sec {
     p {
         style { font-size: 1.2em; margin-bottom: 20px; }
 
-        I'm an award-winning Las Vegas Valley [[ ~web ]] and
+        I'm an award-winning [[ ~web ]] and
         [[ mobile app | ~ios ]] developer.
     }
 
