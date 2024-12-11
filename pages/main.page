@@ -12,7 +12,7 @@ sec.main-right {
     $section_title { title: Check out my work; }
     $work {}
  
-    $section_title { title: Stalk me; }
+    $section_title { title: Contact me; }
     $stalk {}
 } 
  
