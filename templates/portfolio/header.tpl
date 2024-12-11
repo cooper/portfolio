@@ -15,7 +15,7 @@
     <title>{{.VisibleTitle}}</title>
     <link rel="icon" type="image/png" href="{{.StaticRoot}}/favicon.png" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,500%7COpen+Sans" />
-    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" type="text/css" href="{{.StaticRoot}}/style.css" />
     <link rel="stylesheet" type="text/css" href="/static/quiki.css" />
 {{with .PageCSS}}
