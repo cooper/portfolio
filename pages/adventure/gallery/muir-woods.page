@@ -12,11 +12,6 @@ sec {
 
     gallery {
         image {
-            file:   galleries/muir-woods/1.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/muir-woods/2.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -102,11 +97,6 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/muir-woods/19.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/muir-woods/20.jpeg;
             desc:   ;
             author: Mitchell Cooper;
@@ -122,22 +112,12 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/muir-woods/23.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/muir-woods/24.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   galleries/muir-woods/25.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/muir-woods/26.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

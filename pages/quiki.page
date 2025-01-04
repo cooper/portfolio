@@ -26,7 +26,7 @@ sec {
     installed with a single command, and pages are
     easily created with either a plain text editor or the built-in web panel.
     
-    $green_buttons { website: https://quiki.app; github: quiki; }
+    $green_buttons { website: https://quiki.rlygd.net; github: quiki; }
 }
 
 clear {}

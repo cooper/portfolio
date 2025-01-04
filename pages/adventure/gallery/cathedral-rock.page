@@ -62,27 +62,12 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/cathedral-rock/12.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/cathedral-rock/13.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   galleries/cathedral-rock/14.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/cathedral-rock/15.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/cathedral-rock/16.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
@@ -123,11 +108,6 @@ sec {
         };
         image {
             file:   galleries/cathedral-rock/25.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/cathedral-rock/27.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

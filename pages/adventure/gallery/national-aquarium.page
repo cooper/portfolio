@@ -271,11 +271,6 @@ sec {
             desc:   ;
             author: Mitchell Cooper;
         };
-        image {
-            file:   galleries/national-aquarium/54.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
     }
 }
 

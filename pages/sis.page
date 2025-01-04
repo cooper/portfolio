@@ -29,7 +29,6 @@ sec {
     synchronize accounts across Active Directory, G Suite, and online curricula
     engines; and safely convey sensitive student credentials to teachers.
 
-    $green_buttons { demo: https://sis-demo.mitchellcooper.me; }
 }
 
 clear {}

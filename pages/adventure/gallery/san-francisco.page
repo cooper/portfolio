@@ -177,17 +177,7 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/san-francisco/34.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/san-francisco/35.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/san-francisco/36.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
@@ -227,22 +217,7 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/san-francisco/44.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/san-francisco/45.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/san-francisco/46.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/san-francisco/47.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
@@ -453,11 +428,6 @@ sec {
         };
         image {
             file:   galleries/san-francisco/89.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/san-francisco/90.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

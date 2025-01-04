@@ -127,11 +127,6 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/alcatraz/24.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/alcatraz/25.jpeg;
             desc:   ;
             author: Mitchell Cooper;

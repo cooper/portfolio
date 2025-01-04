@@ -212,27 +212,12 @@ sec {
             author: Mitchell Cooper;
         };
         image {
-            file:   galleries/arizona-hot-spring/41.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/arizona-hot-spring/42.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
             file:   galleries/arizona-hot-spring/43.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };
         image {
             file:   galleries/arizona-hot-spring/44.jpeg;
-            desc:   ;
-            author: Mitchell Cooper;
-        };
-        image {
-            file:   galleries/arizona-hot-spring/45.jpeg;
             desc:   ;
             author: Mitchell Cooper;
         };

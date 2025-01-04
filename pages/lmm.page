@@ -29,7 +29,7 @@ sec {
     completed weeks or months in advance in just one sitting. Input your menu
     just [i]once[/i], and let LMM handle the logistics.
     
-    $green_buttons { demo: https://lmm-demo.mitchellcooper.me; github: lunch-menu-manager; }
+    $green_buttons { github: lunch-menu-manager; }
 }
 
 clear {}
